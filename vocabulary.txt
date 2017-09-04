@@ -1,0 +1,2656 @@
+-----------a-----------
+name:ABANDON
+en:To give up completely - abandoned the sinking ship.
+cn:n. 狂热；放任;vt. 遗弃；放弃
+Synonyms: relinquish, forgo, forsake
+
+name:ABASH
+en:To lose self-confidence; to confuse, put to shame – abashed before the assembled dignitaries.
+cn:vt. 使困窘；使羞愧；使局促不安
+Synonyms: fluster, disconcert, discomfit, discompose
+
+name:ABDICATE
+en:To give up claim to - abdicated the throne
+cn:vi. 退位；放弃;vt. 退位；放弃
+Synonyms: renounce, abandon, relinquish
+
+name:ABET
+en:To encourage -or support - treacherously abetted the enemy.
+cn:vt. 煽动，教唆；支持;n. (Abet)人名；(意)阿贝特；(匈)奥拜特
+Synonyms: spur, incite
+
+name:ABRIDGE
+en:To shorten - abridged his lengthy speech. ; Anthonyms: protract, elongate, amplify
+cn:vt. 删节；缩短；节略
+Synonyms: curtail, diminish, retrench
+
+name:ABROGATE
+en:To abolish or render void - a treaty abrogated by mutual consent.
+cn:vt. 废除；取消
+Synonyms: annul, nullify, rescind, void
+
+name:ABSTEMIOUS
+en:Moderate in the use of food or drink - abstemious in his habits.
+cn:adj. 节约的，节省的；有节制的
+Synonym: temperate
+
+name:ACADEMIC
+en:Pertaining to school; theoretical academic interests; an academic discussion, with no practical implications.
+cn:adj. 学术的；理论的；学院的;n. 大学生，大学教师；学者
+Synonym: scholastic
+
+name:ACCEDE
+en:To agree to -accede to a request.
+cn:vi. 加入；同意；就任
+Synonym: assent
+
+name:ACCELERATE
+en:To quicken, speed tip - took an accelerated course in order to graduate early.
+cn:vt. 使……加快；使……增速;vi. 加速；促进；增加
+Synonym: expedite (adj. expeditious)
+
+name:ACCOLADE
+en:An award or salute - a tremendous accolade for a returning hero.
+cn:n. 荣誉；荣誉称号授予仪式；连谱号；称赞
+Synonyms: tribute, ovation
+
+name:ACCORD
+en:Agreement or harmony - in full accord with his view. ; Antonyms:dissension, discord
+cn:n. 符合；一致；协议；自愿;vt. 使一致；给予;vi. 符合；一致
+Synonyms: concord, concurrence
+
+name:ACRIMONIOUS
+en:Sharp or harsh in language or temper - stung by the acrimonious remark. ; Antonyms:suave, affable
+cn:adj. 严厉的；辛辣的；刻薄的
+Synonyms:caustic, acerb, pungent, tart, mordant, acrid; (noun) asperity
+
+name:ACUMEN
+en:Keenness of mind or insight - showing exceptional business acumen.
+cn:n. 聪明，敏锐
+Synonyms:perspicacity, discernment, perception
+
+name:ADMONISH 
+en:(noun: ADMONITION): To warn or find fault gently - admonishing the unruly child.
+cn:vt. 告诫；劝告
+Synonyms:chide, caution, reprimand, reprehend, reproach
+
+name:ADVERSARY
+en:(adj.: ADVERSE): An opponent - his adversary in a bitter debate. ; Antonyms:cohort, confederate, ally, accomplice.
+cn:n. 对手；敌手
+Synonym:antagonist
+
+name:ADVERSITY
+en:Misfortune - calm in the face of adversity.
+cn:n. 逆境；不幸；灾难；灾祸
+Synonyms:affliction, mischance, reverses
+
+name:AESTHETIC
+en:Pertaining to the beautiful - interested in aesthetic values rather than in purely practical affairs.
+cn:adj. 美的；美学的；审美的，具有审美趣味的
+None
+
+name:AFFABLE
+en:Sociable, courteous, and agreeable in manner a much admired, affable gentleman. ; Antonyms:curt, brusque, rude, boorish, surly
+cn:adj. 和蔼可亲的；友善的
+Synonyms: civil, complaisant, benign, gracious, genial, urbane, cordial
+
+name:AFFLUENT
+en:Prosperous, flourishing; copious - a large bequest from an affluent grandfather. ; Antonyms:destitute, impecunious
+cn:adj. 富裕的；丰富的；流畅的;n. 支流；富人
+Synonyms:opulent, profuse
+
+name:AGGRESSIVE 
+en:(noun: AGGRESSION. an unprovoked attack): self-assertive; attacking, offensive - annoyed people by his aggressive attitude; ; Antonyms:meek, humble, retiring, diffident
+cn:adj. 侵略性的；好斗的；有进取心的；有闯劲的
+Synonyms:bumptious, officious, obtrusive
+
+name:ALACRITY
+en:Eagerness; cheerful promptness - responded to the flattering offer with alacrity. ; Antonyms:apathy, nonchalance, sluggishness, lethargy, phlegmatism
+cn:n. 敏捷；轻快；乐意
+Synonyms:celerity, briskness, energy, animation
+
+name:ALIENATE
+en:To estrange - altenated by his gruff manner.
+cn:vt. 使疏远，离间；让与
+None
+
+name:ALLAY
+en:To calm; to lessen in severity - at ease now that his fears have been allayed. ; Antonyms:intensify, aggravate
+cn:vt. 减轻；使缓和；使平静
+Synonyms:appease, alleviate, pacify, assuage, abate, mitigate, propitiate, mollify, placate
+
+name:ALLUDE 
+en:(noun: ALLUSION): To refer to indirectly - alluded quite subtly to his friend's misfortune. ; Antonyms:refer, cite
+cn:vi. 暗指，转弯抹角地说到；略为提及，顺便提到
+Synonyms:insinuate, intimate, imply
+
+name:ALLURE
+en:To tempt by flattery or an attractive offer - allured by the prospect of a new job.
+cn:vt. 引诱，诱惑；吸引;n. 诱惑力;vi. 诱人，吸引人
+Synonyms:lure, decoy, inveigle, entice, seduce, wheedle, beguile, cajole
+
+name:AMBIGUOUS
+en:Uncertain, vague, capable of being inter- in more than one way - puzzled by the ambiguous statement. ; Antonyms:explicit, unquestionable
+cn:adj. 模糊不清的；引起歧义的
+Synonyms:hazy, obscure, equivocal, dubious, nebulous
+
+name:AMENABLE
+en:Obedient; willing to submit - amenable to the suggestion. ; Antonyms:intractable, refractory, recalcitrant
+cn:adj. 有责任的，应服从的；有义务的；经得起检验的
+Synonyms:tractable, docile, responsive
+
+name:AMIABLE
+en:Good-natured; friendly - attracted friends by his amiable disposition.
+cn:adj. 和蔼可亲的，亲切的;n. (Amiable)人名；(法)阿米亚布勒；(英)阿米娅布尔
+Synonym:complaisant
+
+name:ANACHRONISM
+en:A thing placed or occurring out of its normal time - A machine gun at the Battle of Yorktown would be an anachronism.
+cn:n. 时代错误；不合潮流的人或物
+None
+
+name:ANALOGY 
+en:(adj.: ANALOGOUS): A relation between two things shown in the resemblance not of the things themselves but of their characteristics- He indicated points of analogy between the two situations.
+cn:n. 类比；类推；类似
+Synonyms:correspondence, affinity
+
+name:ANARCHY
+en:State of confusion or lawlessness - a country brought to utter anarchy by civil war.
+cn:n. 无政府状态；混乱；无秩序
+Synonyms: chaos, pandemonium
+
+name:ANIMUS
+en:A feeling of hatred-felt no animus, even against the enemy.
+cn:n. 敌意；意图；基本态度；女性的男性意向
+Synonyms: enmity, rancor, malevolence, animosity
+
+name:ANNALS
+en:Historical records - in the annals of literature.
+cn:n. 年报；编年史；年鉴
+None
+
+name:ANONYMOUS
+en:Of unknown authorship-an anonymous publication.
+cn:adj. 匿名的，无名的；无个性特征的
+None
+
+name:ANTHOLOGY
+en:A collection of choice literary works – an anthology of modern poetry.
+cn:n. （诗、文、曲、画等的）选集
+None
+
+name:ANTITHESIS 
+en:(adj.: ANTITHETICAL): Contrast; the direct opposite - His selfish attitude seemed to me the antithesis o patriotism.
+cn:n. 对立面；对照；对仗
+None
+
+name:APATHY 
+en:(adj.: APATHETIC): Lack of feeling, emotion, or interest - attributed his failure to apathy, rather than lack of ability. ; Antonyms:zeal, animation
+cn:n. 冷漠，无兴趣，漠不关心；无感情
+Synonyms: torpor, lethargy, sluggishness, listlessness, languor, lassitude, dispassion; (verb) languish
+
+name:APPREHENSIVE 
+en:(verb: APPREHEND): Fearful - Being unprepared, John is apprehensive of the examination.
+cn:adj. 忧虑的；不安的；敏悟的；知晓的
+None
+
+name:APPRISE
+en:To inform -apprisedhis lieutenants of the new situation.
+cn:vt. 通知；报告
+None
+
+name:APPROBATION
+en:Approval; praise -a plan that met with hearty approbation.
+cn:n. 认可；赞许；批准
+Synonyms:sanction, commendation
+
+name:APT 
+en:(noun: APTITUDE, APTNESS): ; (1) Likely; inclined or disposed - apt to succeed. Synonym: prone ; (2) Fit, suitable - an apt remark. ; (3) Skillful, expert - apt at woodcarving.
+cn:adj. 恰当的；有…倾向的；灵敏的;n. (Apt)人名；(法、波、英)阿普特
+Synonyms: deft, dextrous, adept. Antonym: inept
+
+name:ARBITER
+en:A person who has authority to decide matters in dispute - a fair decision rendered by the arbiter.
+cn:n. [法] 仲裁者；裁决人;n. (Arbiter)人名；(英)阿比特
+Synonyms: mediator, arbitrator
+
+name:ARCHETYPE
+en:An original pattern - copies reproduced from the archetype. ; Antonyms: Stereotype, facsimile, replica
+cn:n. 原型
+Synonym: prototype
+
+name:ARID
+en:Dry; barren - the arid desert land. ; Antonyms: arable, fertile
+cn:adj. 干旱的；不毛的，[农] 荒芜的
+Synonyms. jejune, parched
+
+name:ARISTOCRACY
+en:Government by the best people; a privileged class -special privileges enjoyed by the aristocracy.
+cn:n. 贵族；贵族统治；上层社会；贵族政治
+Synonym: oligarchy
+
+name:ARMISTICE
+en:A temporary suspension of hostilities. The armistice halted the war.
+cn:n. 停战，休战；休战协议
+Synonym: truce
+
+name:ARTFUL
+en:Sly; crafty - attained his mean objective by artful measures. ; Antonyms: guileless, ingenuous, artless
+cn:adj. 巧妙的；狡猾的；有技巧的；欺诈的
+Synonyms: cunning, wily, adroit, ingenious, guileful
+
+name:ARTICULATE 
+en:(verb): To speak clearly or distinctly - articulated slowly so that he could not be misunderstood. ; (adj.): Capable of speech; distinct, clear – an articulate man, always ready to give his views.
+cn:vt. 清晰地发（音）；明确有力地表达；用关节连接；使相互连贯;vi. 发音；清楚地讲话；用关节连接起来;adj. 发音清晰的；口才好的；有关节的
+None
+
+name:ASCETIC
+en:Rigorously self-denying - pursued the ascetic life of a monk. ; Antonyms: wanton, self-indulgent
+cn:adj. 苦行的；禁欲主义的;n. 苦行者；禁欲者
+Synonyms: austere, abstinent
+
+name:ASKANCE
+en:With distrust - looked askance at the forged signature.
+cn:adv. 怀疑地；斜视地
+None
+
+name:ASSEVERATE
+en:To declare positively; to confirm - asseverated his views with conviction. ; Antonyms:gainsay, controvert, recant, rescind, abjure, disavow
+cn:vt. 郑重声明；（严正地）宣称；断言
+Synonyms:assert, avouch, aver, avow, allege
+
+name:ASSIDUOUS
+en:Industrious - an assiduous worker, toiling long hours. ; Antonyms:indolent, slothful
+cn:adj. 刻苦的，勤勉的
+Synonyms:sedulous, attentive, diligent, indefatigable
+
+name:ASYLUM
+en:A place offering shelter and retreat -found asylum from persecution.
+cn:n. 庇护；收容所，救济院
+Synonyms:sanctuary, refuge
+
+name:ATHEIST
+en:One who denies that God exists - The atheist declared, "There is no God."
+cn:n. 无神论者
+Synonyms:infidel, agnostic, skeptic
+
+name:ATTRIBUTE 
+en:(verb): Assign -attributed his success to bard work. ; (noun): An inherent quality -Generosity was his outstanding attribute.
+cn:n. 属性；特质;vt. 归属；把…归于
+Synonym: ascribe
+
+name:AUGMENT
+en:To increase or enlarge - an army augmented by numerous enlistments.
+cn:vi. 增加；增大;vt. 增加；增大;n. 增加；增大
+Synonyms: enhance, amplify - Antonyms: abate, curtail
+
+name:AUSPICIOUS
+en:Indicating a happy outcome - The prospect for this project appears auspicious. ; Antonyms:ominous, foreboding
+cn:adj. 吉兆的，吉利的；幸运的
+Synonyms:propitious, fortunate
+
+name:AUTHENTIC
+en:Genuine -proved to be an authentic document. ; Antonyms;apocryphal, counterfeit, spurious, bogus
+cn:adj. 真正的，真实的；可信的
+Synonyms:veritable, bona fide
+
+name:AUTOCRATIC
+en:Despotic - feared by the masses as an autocratic ruler.
+cn:adj. 专制的；独裁的，专横的
+Synonym:tyrannical
+
+name:AVARICE
+en:Excessive greed - a fortune accumulated by avarice and miserliness.
+cn:n. 贪婪，贪财
+Synonyms:covetousness, cupidity, avidity
+
+name:AWRY
+en:Unsymmetrical; not straight - the picture, hanging awry on the wall.
+cn:adj. 错误的；扭曲的;adv. 歪曲地；歪斜地；错误地
+Synonym:askew
+
+-----------b-----------
+name:BANAL
+en:Lacking in freshness, originality, or vigor-bored by his banal remarks. ; Antonyms:racy, original, vivid
+cn:adj. 陈腐的；平庸的；老一套的;n. (Banal)人名；(法、意)巴纳尔
+Synonyms:commonplace, hackneyed, prosaic, trite, stereotyped, vapid
+
+name:BANEFUL 
+en:(noun: BANE: poison; source of harm): Destructive, poisonous - a baneful effect, causing serious injury.
+cn:adj. 有害的；有毒的；使人苦恼的
+Synonyms: deleterious, pernicious, virulent, noxious, toxic
+
+name:BANTER
+en:Good-natured teasing or ridicule-The two wits I exchanged banter, to the amusement of the audience.
+cn:n. （善意的）戏谑；逗弄;vt. 善意地取笑；逗弄;vi. 开玩笑；谈笑;n. (Banter)人名；(德)班特
+Synonyms:raillery, chaff
+
+name:BATON
+en:A stick or staff - The conductor wielded his baton gracefully.
+cn:n. 指挥棒；接力棒；警棍；司令棒;n. (Baton)人名；(法)巴东；(阿尔巴)巴唐
+None
+
+name:BELIE
+en:To give a false idea of - His gracious manner belled his. evil purpose.
+cn:vt. 掩饰；与…不符；使失望；证明…虚假错误
+Synonym:misrepresent
+
+name:BELLICOSE
+en:Inclined to quarrel; warlike - His bellicose attitude often got John into fights. ; Antonyms: pacific, conciliatory
+cn:adj. 好战的；好斗的
+Synonyms: pugnacious, contentious, disputatious
+
+name:BELLIGERENT
+en:Engaged in war - two belligerent nations warring fiercely.
+cn:adj. 交战的；好战的；交战国的;n. 交战国；参加斗殴的人或集团
+None
+
+name:BENEVOLENT
+en:Kindly; charitable - like a benevolent monarch, bestowing many favors. ; Antonyms: malevolent, malignant
+cn:adj. 仁慈的；慈善的；亲切的
+Synonyms: benign, benignant, gracious, magnanimous
+
+name:BEREAVE
+en:To deprive or leave desolate by loss - a widow just bereaved of her husband.
+cn:vt. 使……失去；使……孤寂
+None
+
+name:BESMIRCH
+en:To soil or dirty - besmirched his opponent's good name with vile epithets.
+cn:vt. 弄污；损害；诽谤
+Synonyms: stilly, defile, smirch, bespatter
+
+name:BIASED
+en:Prejudiced - misled by a biased point of view. ; Antonyms:disinterested, equitable
+cn:adj. 有偏见的；结果偏倚的，有偏的
+Synonyms:bigoted, arbitrary, partial, partisan
+
+name:BIBLIOPHILE
+en:A lover of books - The bibliophile fingered the old book fondly.
+cn:n. 藏书家；爱书的人
+None
+
+name:BIZARRE
+en:Queer; unusual in appearance- bizarre clothes, outlandish in the extreme.
+cn:adj. 奇异的（指态度，容貌，款式等）
+Synonyms:odd, fantastic, grotesque, eccentric
+
+name:BLAND
+en:Gentle; polite; agreeable - a bland diet, without irritating foods. ; Antonyms: piquant, tart, racy, caustic, acrid, pungent
+cn:adj. 乏味的；温和的；冷漠的;vt. 使…变得淡而无味；除掉…的特性;vi. 变得平淡无奇；丧失特性;n. (Bland)人名；(英)布兰德
+Synonyms: mild, suave (affable or persuasive in manner), soothing, non-irritating
+
+name:BLANDISHMENT
+en:A flattering speech or act - attracted people by his blandishments.
+cn:n. 奉承；谄媚；哄诱
+None
+
+name:BLEMISH 
+en:(verb): To scar or spoil - Bad associates blemished his character ; (noun): A disfigurement, defect - a character without a blemish.
+cn:n. 瑕疵；污点；缺点;vt. 玷污；损害；弄脏
+None
+
+name:BLIGHT
+en:To ruin or decay - the rotting wheat-, blighted by incessant rain.
+cn:n. 枯萎病；荒芜;vt. 破坏；使…枯萎;vi. 枯萎;n. (Blight)人名；(英)布莱特
+Synonyms:wither, blast
+
+name:BLITHE
+en:Gay and light-hearted in spirit or mood - spread cheer with her blithe spirit. ; Antonyms: dejected, forlorn, abject
+cn:adj. 愉快的；快乐无忧的
+Synonyms: jocund, merry, joyous
+
+name:BOG
+en:A swamp - sank into the spongy bog.
+cn:n. 沼泽；泥塘;vt. 使陷于泥沼；使动弹不得;vi. 陷于泥沼；动弹不得;n. (Bog)人名；(德、挪)博格
+Synonyms: morass, fen, quagmire, mire
+
+name:BOMBASTIC 
+en:(noun: BOMBAST): High-sounding; pretentious in language - a bombastic speech, inflated with meaningless high-flown words.
+cn:adj. 夸大的；言过其实的
+Synonyms: ranting, pompous, fustian
+
+name:BOORISH
+en:Unrefined in speech or manners - exhibited the boorish manners of a backwoodsman.
+cn:adj. 粗野的；粗鲁的；粗鄙的；笨拙的；乡土气的
+Synonyms:churlish, uncouth. uncultured, crass
+
+name:BUCOLIC
+en:Pertaining to the country - a bucolic poem de- the joys of the shepherd.
+cn:adj. 牧歌的；牧羊的；乡下风味的;n. 田园诗；农夫
+Synonyms:pastoral, rustic, rural
+
+name:BUFFOON
+en:A clown - acting like a buffoon, full of ludicrous tricks.
+cn:n. 丑角；滑稽剧演员
+Synonym: harlequin
+
+name:BULWARK
+en:
+cn:n. 壁垒；保障；防波堤;vt. 保护；筑垒保卫
+None
+
+name:BUMPTIOUS
+en:Obnoxiously conceited or self-assertive - a bumptious monitor, puffed up with his own importance,
+cn:adj. 傲慢的；瞎自夸的
+Synonyms: aggressive, arrogant, contumelious, overbearing
+
+-----------c-----------
+name:CABAL
+en:A small group of persons engaged in plotting - a cabal of prominent persons united to overthrow the government.
+cn:n. 阴谋（尤指政治上的）；阴谋集团;vi. 策划阴谋;n. (Cabal)人名；(西)卡瓦尔；(葡)卡巴尔
+Synonyms: junto, faction
+
+name:CACOPHONOUS
+en:Unharmonious sounding - a cacophonous blare of trumpets, noisy and discordant.
+cn:adj. 粗腔横调的；发音不和谐的
+Synonyms: dissonant, discordant, blatant, strident, raucous Antonyms: mellifluous, euphonious, dulcet
+
+name:CADAVEROUS
+en:Corpselike; hence, haggard, pale -His face appeared cadaverous from long imprisonment. ; Antonyms: rubicund, florid
+cn:adj. 尸体样的；惨白的
+Synonyms: ghastly, gaunt, pallid (noun: pallor), wan, ashen
+
+name:CALLOUS
+en:Unfeeling or insensitive - made callous by long suffering.
+cn:adj. 无情的；麻木的；硬结的；起老茧的;vt. 使冷酷无情；使硬结；使生茧;vi. 变得冷酷无情；结茧；变硬;n. 硬皮；老茧
+Synonyms: insensible, obdurate
+
+name:CALUMNIATE
+en:To accuse falsely or maliciously in order to injure another's reputation; slander - calumniated his political opponent by spreading false rumors.
+cn:vt. 诽谤；中伤；诬蔑
+Synonyms: asperse, vilify, defame, scandalize
+
+name:CANDID 
+en:(noun: CANDOR): Frank, outspoken; impartial a candid reply that could hardly be more forthright. ; Antonyms: guileful, evasive
+cn:adj. 公正的；坦白的；率直的；偷拍的;n. (Candid)人名；(罗)坎迪德
+Synonyms: artless, ingenuous, unbiased
+
+name:CANTANKEROUS
+en:Ill-natured; quarrelsome – showed a cantankerous and sullen disposition. ; Antonyms:amiable, affable, equable
+cn:adj. 脾气坏的；爱吵架的；难相处的
+Synonyms:petulant, peevish, contentious, pugnacious, testy, choleric, fretful
+
+name:CAPRICIOUS
+en:Inclined, through some whim or fancy change the mind, purpose, or actions suddenly - a capricious person, undependable in mood or temper. ; Antonyms:steadfast, constant, even-tempered
+cn:adj. 反复无常的；任性的
+Synonyms:fickle, fitful, changeable, erratic, inconstant, crotchety, whimsical, mercurial
+
+name:CAPTIOUS
+en:Quick to find fault about trifles- a captious critic pouncing on slight laws.
+cn:adj. 挑剔的；吹毛求疵的
+Synonyms:hypercritical, carping, carviling, censorious
+
+name:CARICATURE
+en:A picture or other description of a person which exaggerates ludicrously one or more of his distinctive features - not a realistic portrait but a malicious caricature.
+cn:n. 漫画；讽刺画；漫画手法;vt. 画成漫画讽刺
+None
+
+name:CASTIGATE
+en:To punish or criticize severely - castigated for using improper language. ; Antonyms:commend, eulogize, laud
+cn:vt. 严惩；苛评；矫正；修订
+Synonyms:reprove, upbraid, reprehend, censure, reprimand, chasten
+
+name:CELESTIAL
+en:Pertaining to the sky; heavenly-a celestial pageant of bright stars.
+cn:adj. 天上的，天空的;n. 神仙，天堂里的居民
+Synonyms:ethereal; (noun) firmament
+
+name:CHAUVINIST
+en:An extreme patriot-a chauvinist with most pride in his country.
+cn:n. 沙文主义者；盲目的爱国者；沙文主义组织;adj. 沙文主义的
+Synonym:jingoist
+
+name:CHICANERY
+en:Trickery, deception,- practised chicanery all his shady dealings.
+cn:n. 狡辩；欺骗；强词夺理
+Synonyms:duplicity, craft, stratagem, wile, subterfuge
+
+name:CHRONIC
+en:Continuing a long time; habitual-a. chronic complaint, persisting for years. ; Antonyms:intermittent, sporadic, infrequent
+cn:adj. 慢性的；长期的；习惯性的;n. (Chronic)人名；(英)克罗尼克
+Synonyms:persistent, unremitting, inveterate, incessant, constant
+
+name:CIRCUMSPECT
+en:Cautious - looked about him circumspectly. ; Antonyms:rash, indiscreet, reckless, precipitate, foothardy, temerarious, headstrong
+cn:adj. 细心的，周到的；慎重的
+Synonyms:prudent, vigilant, discreet, wary
+
+name:CIRCUMVENT
+en:To gain an advantage by the use of trick to evade by the use of deception; to go around - circumvented the law by evasive practices.
+cn:vt. 包围；陷害；绕行
+Synonyms:thwart, balk, outwit, delude
+
+name:CIVIL
+en:
+cn:adj. 公民的；民间的；文职的；有礼貌的；根据民法的;n. (Civil)人名；(土)吉维尔；(法)西维尔
+Synonyms: respectful, gracious
+
+name:CLAMOROUS
+en:Loud and noisy - a clamorous outburst the crowd outside. ; Antonyms: muted, quiet
+cn:adj. 吵闹的；大声要求的
+Synonyms: vociferous, obstreperous, blatant, raucous, strident
+
+name:CLANDESTINE
+en:Secret; stealthy - a clandestine meeting known only to a few. ; Antonyms: overt, manifest, above-board
+cn:adj. 秘密的，私下的；偷偷摸摸的
+Synonyms: furtive, covert, surreptitious
+
+name:CLEMENT
+en:Merciful; gentle - a clement judge who tempered justice with leniency. ; Antonyms: relentless, ruthless
+cn:adj. 温和的；仁慈的
+Synonyms: compassionate, forbearing
+
+name:COALITION 
+en:(verb: COALESCE): Alliance; merging of various units into one unit - three parties forming a coalition to rule the country.
+cn:n. 联合；结合，合并
+Synonyms: amalgamation, consolidation, fusion
+
+name:COERCION
+en:Compelling a person by physical force or other means to do something against his will - rendered his services without the slightest coercion.
+cn:n. 强制；强迫；高压政治；威压
+Synonyms: constraint, restraint, impelling
+
+name:COGENT
+en:Having the force to compel, usually by appealing to reason - persuaded by cogent arguments.
+cn:adj. 强有力的；使人信服的
+Synonym: persuasive
+
+name:COLLUSION
+en:Working together secretly for an evil purpose - acted in collusion to overthrow the government.
+cn:n. 勾结；共谋
+Synonyms: collaboration, conspiracy, conniving, machination
+
+name:COMMODIOUS
+en:Roomy - a commodious apartment.
+cn:adj. 宽敞的；方便的
+Synonyms: spacious, capacious, ample
+
+name:COMPATIBLE
+en:Harmonious; able, to get along together parted company because they were not compatible. ; Antonyms: incongruous, discordant, incompatible
+cn:adj. 兼容的；能共处的；可并立的
+Synonyms: congruous, consistent
+
+name:COMPENDIUM 
+en:(adj.: COMPENDIOUS): A brief summary of the main ideas of a larger work - a compendium of chemistry in a slim volume.
+cn:n. 纲要；概略
+Synonyms: synopsis, digest, precis, abstract, epitome
+
+name:COMPENSATION
+en:Payment for services - just compensation for his labor.
+cn:n. 补偿；报酬；赔偿金
+Synonyms: stipend, remuneration, recompense, emolument
+
+name:COMPLACENT
+en:Self-satisfied - looked on his own performance with a complacent smile.
+cn:adj. 自满的；得意的；满足的
+Synonym: smug
+
+name:COMPUNCTION
+en:Regret for wrongdoing - displayed slight compunction for his misdeed.
+cn:n. 悔恨，后悔；内疚
+Synonyms: contrition, penitence, atonement, remorse, qualm
+
+name:CONCEDE
+en:To yield; to admit as true; to grant - conceded victory to a superior force.
+cn:vt. 承认；退让；给予，容许;vi. 让步
+Synonyms: acquiesce, capitulate
+
+name:CONDIGN
+en:Well-deserved (applied chiefly to punishment) - received condign punishment for his crime.
+cn:adj. 相当的；应得的（尤指惩罚）；适宜的
+None
+
+name:CONDOLE 
+en:(noun: CONDOLENCE): To express sympathy with another in sorrow, pain, or misfortune - condoled with each other in their grief.
+cn:vi. 慰问；吊唁；哀悼
+Synonyms: commiserate, show compassion, solace
+
+name:CONDONE
+en:To forgive or overlook (an offense) - condoned the deed, in view of the offender's age.
+cn:vt. 宽恕；赦免
+Synonyms: extenuate, palliate, mitigate, gloss
+
+name:CONFEDERATE 
+en:(noun): A person allied with others for a special purpose (frequently a bad one) - joined his confederate in secret enterprise. ; (adj.): United or allied in a conspiracy - two confederate groups hurrying to their rendezvous.
+cn:n. 同盟国，同盟者;adj. 同盟的，联合的;vt. 使联盟；使联合；同伙；帮凶;vi. 同盟；联合
+Synonyms: collaborator, accomplice
+
+name:CONGENIAL
+en:(1) Possessing similar interests and tastes; able to get on well with others - congenial people with similar backgrounds. ; (2) Agreeable - congenial to his taste.
+cn:adj. 意气相投的；性格相似的；适意的；一致的
+Synonym: compatible
+
+name:CONJECTURE
+en:To guess - Without facts, we can only conjecture about his guilt.
+cn:n. 推测；猜想;vi. 推测；揣摩;vt. 推测
+Synonyms: surmise, presume
+
+name:CONSECRATE
+en:(1) To set apart as sacred - consecrate the battlefield with a monument to the dead heroes. Synonyms: hallow, sanctify Antonym: desecrate ; (2) To devote or dedicate to some aim - consecrated his life to teaching.
+cn:vt. 奉献；使神圣；供神用；献身于;adj. 神圣的；被献给神的
+None
+
+name:CONSENSUS
+en:General agreement - The consensus of the committee was that no action should be taken.
+cn:n. 一致；舆论；合意
+Synonym: accord
+
+name:CONSTERNATION
+en:Amazement; lack of courage caused by fearful prospect - The threat struck deep consternation into John.
+cn:n. 惊愕；惊惶失措；恐怖
+Synonyms: dismay, bewilderment
+
+name:CONSTRUE 
+en:(noun: CONSTRUCTION): To interpret, explain the sense of, or analyze - construed the statement to his own advantage.
+cn:vt. 分析；解释；翻译;vi. 作文法性的分析
+None
+
+name:CONSUMMATE 
+en:(adj.): Perfect or highly accomplished - achieved with consummate skill. ; Antonyms: botched. bungled, inept ; (verb): To complete, bring to perfection - consummated the deal without delay.
+cn:adj. 至上的；完美的；圆满的;vt. 完成；作成；使达到极点
+None
+
+name:CONTEMPTUOUS
+en:Expressive of contempt (an emotion involving anger and disgust) - cast a contemptuous look at his subordinate.
+cn:adj. 轻蔑的；侮辱的
+Synonyms: supercilious, scornful, disdainful, contumelious
+
+name:CONVIVIAL
+en:Festive; gay - a convivial party. ; Antonyms: lugubrious, dolorous, mirthless
+cn:adj. 欢乐的；欢宴的；酒宴的
+Synonyms: jovial, jocund, mirthful
+
+name:COPIOUS
+en:Plentiful - shed copious tears at the bad news. ; Antonyms: meager, scant
+cn:adj. 丰富的；很多的；多产的
+Synonyms. profuse, bountiful, abundant
+
+name:CORPULENT
+en:Fat - corpulent due to excessive eating. ; Antonyms: gaunt, lank, emaciated, peaked
+cn:adj. 肥胖的
+Synonyms: obese, portly
+
+name:COSMOPOLITAN 
+en:(noun): One who is at home in all countries - A cosmopolitan can feel at ease anywhere in the world. ; (adj.): Free from local prejudices - a world-wide traveler, cosmopolitan in tastes and attitudes. ; Antonyms: parochial, provincial
+cn:adj. 世界性的；世界主义的，四海一家的;n. 四海为家者；世界主义者；世界各地都有的东西
+Synonyms: Catholic
+
+name:COTERIE
+en:A group of people joined by common interests a coterie of select friend.
+cn:n. 圈内人；小集团；伙伴；同志
+Synonym: clique
+
+name:COUNTENANCE 
+en:(noun): A face - His countenance expressed his complete disgust. ; (verb): To approve - refused to countenance disrespectful conduct.
+cn:n. 面容，表情；支持;vt. 支持，赞同
+Synonym: sanction
+
+name:CRASS
+en:Coarse and stupid - displayed crass ignorance.
+cn:adj. 愚钝的；粗鲁的；非常的;n. (Crass)人名；(英)克拉斯
+Synonym: gross
+
+name:CRAVEN 
+en:(noun): Coward - the deed of a craven, motivated by fear. ; (adj.): Cowardly - a craven act which shocked the world. ; Antonyms: stalwart, intrepid, valiant, stout-hearted
+cn:adj. 畏缩的；怯懦的;n. 懦夫;n. (Craven)人名；(意)克拉文；(英)克雷文
+Synonyms: pusillanimous, dastardly.
+
+name:CREDENCE
+en:Trust or belief - gave little credence to the rumor.
+cn:n. 信任；凭证；祭器台（等于credence table，credenza）
+Synonym: conviction
+
+name:CREDIBLE
+en:Worthy of belief - a credible story, true to life.
+cn:adj. 可靠的，可信的
+None
+
+name:CREDITABLE
+en:Deserving or reflecting Credit or honor - applauded for his creditable performance. ; Antonyms: discreditable, infamous, opprobrious, ignominious
+cn:adj. 可信的；声誉好的；值得称赞的
+Synonyms: praiseworthy, meritorious, commendable
+
+name:CREDULOUS
+en:Inclined to believe anything; easily imposed upon - a credulous fool whom anyone can dupe. ; Antonyms: incredulous, skeptical
+cn:adj. 轻信的；因轻信而产生的
+Synonym: gullible
+
+name:CRINGE
+en:To shrink in fear - cringing before superior force.
+cn:vi. 畏缩；奉承；阿谀;n. 畏缩；奉承
+Synonyms, cower, flinch, fawn, truckle, wince
+
+name:CRUCIAL
+en:Decisive or critical; difficult - the crucial event that decided the outcome.
+cn:adj. 重要的；决定性的；定局的；决断的
+None
+
+name:CRYPTIC
+en:Containing hidden meaning - a cryptic message, difficult to decipher. ; Antonyms: palpable, manifest
+cn:adj. 神秘的，含义模糊的；[动] 隐藏的
+Synonyms: occult, enigmatic
+
+name:CULPABLE
+en:Deserving blame or censure - removed from office for culpable negligence.
+cn:adj. 有罪的；该责备的；不周到的；应受处罚的
+Synonyms: censurable, reprehensible
+
+name:CUMBROUS
+en:Burdensome and clumsy - a cumbrous knapsack, impeding his march.
+cn:adj. 累赘的，成负担的；讨厌的
+Synonyms: cumbersome, unwieldy, bulk
+
+name:CURB
+en:To control, check, or restrain - forcibly curbed the people's protest.
+cn:n. 抑制；路边；勒马绳;vt. 控制；勒住
+Synonyms: repress, subdue
+
+name:CURSORY
+en:Hurried; hence, superficial - Time permitted only a cursory examination. ; Antonyms: painstaking, meticulous
+cn:adj. 粗略的；草率的；匆忙的
+None
+
+name:CURT
+en:Rudely abrupt -offended by the curt response. ; Antonyms: affable, civil
+cn:adj. 简略的；简要的；草率的；简单粗暴的;n. (Curt)人名；(法)屈尔；(英)柯特；(德、西、芬、罗、瑞典)库尔特
+Synonyms: blunt, brusque, bluff
+
+name:CYNICAL
+en:Sneeringly distrustful of the good motives or conduct of others - belittled the hero with a cynical remark.
+cn:adj. 愤世嫉俗的；冷嘲的
+Synonyms: sarcastic, surly
+
+-----------d-----------
+name:DEARTH
+en:Scarcity - a dearth of news, brought about by censorship. ; Antonyms: plethora, abundance
+cn:n. 缺乏；饥馑；粮食不足;n. (Dearth)人名；(英)迪尔思
+None
+
+name:DEFERENCE
+en:Submitting to the wishes or judgment of another - yielded out of deference to the old man.
+cn:n. 顺从
+Synonyms: respect, complaisance, veneration
+
+name:DEITY
+en:A god -The sun was a deity to ancient peoples.
+cn:n. 神；神性
+Synonym: divinity
+
+name:DELECTABLE
+en:Very pleasing - a delectable meal, tastefully prepared.
+cn:adj. 美味的；令人愉快的
+None
+
+name:DELETE
+en:To erase or cancel, take out or remove - deletedan offensive phrase.
+cn:vt. 删除
+Synonyms: expunge, censor, efface, eradicate
+
+name:DELINEATE
+en:To sketch or portray - striking features, delineated by a master artist.
+cn:vt. 描绘；描写；画…的轮廓
+None
+
+name:DELINQUENT 
+en:(noun): An offender - found to be a delinquent by the court. ; (adj.): Failing to fulfill an obligation - too many people who are delinquent in meeting their civic duties.
+cn:adj. 有过失的；怠忽的；拖欠债务的;n. 流氓；行为不良的人；失职者
+Synonym: derelict
+
+name:DELUGE
+en:A great flood; downpour - a spring deluge which caused the river to overflow.
+cn:n. 洪水；泛滥；暴雨;vt. 使泛滥；压倒
+None
+
+name:DEMAGOGUE
+en:A leader who tries to stir the passions of people for his own purposes - the mob roused by an unprincipled demagogue.
+cn:n. 煽动者；煽动家；煽动政治家
+None
+
+name:DEMEANOR
+en:Behavior; bearing - carrying himself with a proud demeanor.
+cn:n. 风度；举止；行为
+Synonyms: deportment, mien
+
+name:DEMURE
+en:Affectedly or falsely modest or prim; serious demure as a Victorian maiden. ; Antonyms: immodest, frivolous
+cn:adj. 端庄的；娴静的；严肃的；假装正直的;n. (Demure)人名；(法)德米尔
+Synonyms: sedate, staid, decorous, prudish, coy
+
+name:DENOUNCE 
+en:(noun: DENUNCIATION): To speak against - denounced by the press as a traitor. ; Antonyms: laud, eulogize
+cn:vt. 谴责；告发；公然抨击；通告废除
+Synonyms: stigmatize, censure, reprehend, castigate
+
+name:DEPLETE
+en:To empty or to use up - depleted the public treasury by vast building programs. ; Antonyms: replenish; (adj.) replete
+cn:vt. 耗尽，用尽；使衰竭，使空虚
+Synonyms: exhaust, drain
+
+name:DEPLORE
+en:To express sorrow or grief over - a lamentable situation deplored by all parties.
+cn:vt. 谴责；悲悼；哀叹；对…深感遗憾
+Synonyms: lament, decry, grieve
+
+name:DEPRAVED
+en:Of low morals; corrupt - a depraved mind, devising evil.
+cn:adj. 堕落的；腐化的；卑鄙的;v. 使腐化（deprave的过去式和过去分词）
+Synonyms: debased, wicked, vicious, perverted
+
+name:DEPRECATE
+en:To plead or argue against a certain course of action - deprecated the proposal severely.
+cn:vt. 反对；抨击；轻视；声明不赞成
+Synonyms: remonstrate, protest, decry, expostulate
+
+name:DEPRECIATE
+en:To belittle or speak slightingly of - depreciated John's acting ability. ; Antonyms: enhance, magnify, extol, laud, eulogize
+cn:vt. 使贬值；贬低；轻视;vi. 贬值；轻视；贬低
+Synonyms: disparage, derogate (adj. derogatory)
+
+name:DEVASTATION
+en:Widespread ruin - the city left in utter devastation by war.
+cn:n. 毁坏，荒废
+Synonyms: destruction, desolation
+
+name:DEVIOUS
+en:(1) Winding; indirect - took a devious, rather than the direct way home. ; (2) Straying from the right course - used devious means to attain his wicked ends.
+cn:adj. 偏僻的；弯曲的；不光明正大的
+Synonyms: crooked, erring
+
+name:DEVOID
+en:Lacking in; not possessing - a speech devoid of even a trace of ill-will. ; Antonyms: abounding, prevalent
+cn:adj. 缺乏的；全无的
+Synonym: destitute
+
+name:DEVOUT
+en:Devoted to religious observances - devout in his regularity of attendance at worship.
+cn:adj. 虔诚的；衷心的
+Synonyms: pious, religious
+
+name:DICTUM
+en:Art authoritative statement; a saying-an imperial dictum demanding instant compliance.
+cn:n. 格言；声明；法官的附带意见
+None
+
+name:DIDACTIC
+en:Designed to teach, imparting a lesson - a poem with a didactic purpose.
+cn:adj. 说教的；教诲的
+Synonym: pedagogical
+
+name:DIFFIDENT
+en:Lacking in self-confidence- too diffident to lead a group. ; Antonyms: forward, aggressive
+cn:adj. 羞怯的；缺乏自信的；谦虚谨慎的
+Synonyms: shy, timid, reserved, reticent, retiring
+
+name:DILEMMA
+en:A situation calling for a choice between two equally difficult alternatives; hence, a difficult or perplexing situation - faced with a dilemma defying solution.
+cn:n. 困境；进退两难；两刀论法
+Synonyms:predicament, quandary, plight
+
+name:DILETTANTE
+en:One who dabbles in the fine arts for amusement only and without concentrated study - a doctor by profession, a dilettante in art.
+cn:n. 业余爱好者；一知半解者;adj. 浅薄的；业余艺术爱好的;vi. （在艺术、科学等方面）浅尝辄止
+Synonyms:amateur, connoisseur
+
+name:DISCONCERT
+en:To confuse; to embarrass - disconcerted by his suspicious stare.
+cn:vt. 使仓皇失措；使困惑；破坏
+Synonyms:perturb, discomfit, discompose, abash, disquiet, fluster
+
+name:DISCONSOLATE
+en:Depressed; without hope or possibility of consolation - made disconsolate by abject poverty. ; Antonyms:blithesome, carefree
+cn:adj. 郁郁不乐的；忧郁的；孤独的
+Synonyms:inconsolable, dejected
+
+name:DISCOURSE
+en:To converse or talk; to discuss - discoursed at length on the rise of political parties.
+cn:n. 论述；谈话；演讲;vi. 演说；谈论；讲述;vt. 说出；演奏出
+None
+
+name:DISCRETE
+en:Separate - two discrete issues, totally unrelated.
+cn:adj. 离散的，不连续的;n. 分立元件；独立部件
+None
+
+name:DISCURSIVE
+en:Rambling from one subject to another - a discursive letter, covering many topics.
+cn:adj. 散漫的；离题的；东拉西扯的；无层次的
+Synonyms:desultory, digressive
+
+name:DISPARITY 
+en:(adj.: DISPARATE): Inequality; difference in image, quantity, character, or rank - great disparity between promise and performance.
+cn:n. 不同；不一致；不等
+None
+
+name:DISPASSIONATE
+en:Free from feeling or partiality - coldly dispassionate as the chairman of the meeting
+cn:adj. 不带感情的；平心静气的；公平的
+Synonyms:palm, impartial
+
+name:DISPATCH 
+en:(verb): To do speedily; to send off - dispatched with remarkable promptness. ; (noun): A speedy performance; the sending off of something - done with all possible dispatch.
+cn:n. 派遣；急件;vt. 派遣；分派
+Synonyms: celerity, alacrity
+
+name:DISPEL
+en:To drive away; to scatter - dispelled a doubt that had lingered.
+cn:vt. 驱散，驱逐；消除（烦恼等）
+Synonyms:dissipate, disperse, diffuse
+
+name:DISSENT 
+en:(noun: DISSENSION): To disagree; to differ in opinion - He dissented violently, rejecting compromise.
+cn:vi. 不同意；不信奉国教;n. 异议；（大写）不信奉国教
+None
+
+name:DISSOLUTE
+en:Living loosely; unrestrained in conduct or morals - his life wasted by dissolute conduct.
+cn:adj. 放荡的；风流的
+Synonyms:debauched, dissipated, profligate
+
+name:DISTRAUGHT
+en:Mentally distressed; distracted - distraught by trials and tribulations.
+cn:adj. 发狂的；心烦意乱的
+Synonym: harassed
+
+name:DIVERSE
+en:(verb: DIVERSIFY; noun: DIVISIBILITY): Varied; different - two diverse characters; one candid, the other insincere.
+cn:adj. 不同的；多种多样的；变化多的
+Synonym: multifarious
+
+name:DIVERTING
+en:Entertaining - a diverting one of the most amusing I've ever seen.
+cn:adj. 有趣的；令人快乐的;v. 使转移；使得到消遣（divert的现在分词）
+None
+
+name:DIVULGE
+en:To make public or reveal - refused to divulge his source of information.
+cn:vt. 泄露；暴露
+Synonyms: disclose, impart
+
+name:DOGMATIC
+en:Positive in expressing an opinion; asserting an opinion as though it were an undisputed fact - spoken dogmatically, as if the speaker considered himself infallible.
+cn:adj. 教条的；武断的
+Synonyms: overbearing, opinionated, peremptory, dictatorial
+
+name:DOLOROUS
+en:Sorrowful; mournful - a dolorous song full of sorrow for past joys. ; Antonyms: jocund, blithe, mirthful
+cn:adj. 忧伤的；悲痛的
+Synonyms: doleful, lugubrious, grievous
+
+name:DYNAMIC
+en:Forceful - possessed dynamic energy, tireless and powerful. ; Antonyms: static, inert, dormant, torpid, sluggish, quiescent
+cn:adj. 动态的；动力的；动力学的；有活力的;n. 动态；动力
+Synonym: energetic
+
+-----------e-----------
+name:ECCLESIASTIC 
+en:(adj.): Pertaining to the clergy or the church - recognized as an authority in ecclesiastic matters. Antonyms: secular, lay ; (noun): A clergyman - an ecclesiastic of liberal views.
+cn:n. 神职人员；牧师；教会;adj. 教会的；神职者的；牧师的
+None
+
+name:EDICT
+en:A public command or proclamation issued by an authority - proclaimed by royal edict.
+cn:n. 法令；布告
+Synonym: decree
+
+name:EDIFY
+en:To instruct or uplift, particularly in morals or religion - a story that edifiesthe reader, as well as entertains him
+cn:vt. 熏陶；启发；教诲
+None
+
+name:EFFETE
+en:No longer productive; hence, lacking in or, worn out - powerful in ancient days, now an effete civilization.
+cn:adj. 衰老的；疲惫的；（土地）贫瘠的；（动植物）不育的
+None
+
+name:EGOTISTIC
+en:Conceited - an egotisticperson, flourishing on praise.
+cn:adj. 自我本位的；自负的；自高自大的
+Synonyms: egocentric, vain
+
+name:EGREGIOUS
+en:Outstandingly bad an egregiousmistake with serious implications.
+cn:adj. 惊人的；过分的；恶名昭彰的
+None
+
+name:EJACULATE
+en:To exclaim or utter suddenly - ejaculateda cry of horror.
+cn:vt. 突然说出；射出;vi. 射精；射出液体;n. 一次射出的精液
+None
+
+name:ELICIT
+en:To draw out - elicitedno response from the audience.
+cn:vt. 抽出，引出；引起
+Synonyms: evoke, extract, extort
+
+name:ELUCIDATE
+en:To make clear; to explain - elucidatedhis theory so that even a schoolboy could understand it.
+cn:vt. 阐明；说明
+Synonym: clarify
+
+name:EMISSARY
+en:A person sent on an errand or mission - delegated his emissary to conclude a pact.
+cn:n. 使者；间谍；密使;adj. 间谍的；密使的
+None
+
+name:ENGENDER
+en:To cause, produce, or stir up-an act that engenderedgood will.
+cn:vt. 使产生；造成;vi. 产生；引起
+None
+
+name:ENNUI
+en:Boredom; weariness of mind-fell asleep at the meeting from sheer ennui.
+cn:n. （法）厌倦，无聊；倦怠
+None
+
+name:ENSUE
+en:To follow or result-Silence ensuedwhen the leader arose to speak.
+cn:vi. 跟着发生，接着发生；继起;vt. 追求
+None
+
+name:ENTREAT
+en:To beg earnestly - entreatedthe judge to show mercy. ; (adj.) importunate, mendicant, suppliant
+cn:vt. 恳求；请求;vi. 恳求；乞求
+Synonyms: solicit, supplicate, beseech, implore, importune;
+
+name:EPHEMERAL
+en:Very short-lived - an ephemeraljoy, lasting but a day.
+cn:adj. 短暂的；朝生暮死的;n. 只生存一天的事物
+Synonyms: fleeting, transitory, transient, evanescent
+
+name:EPICUREAN 
+en:(noun): A person devoted to luxurious living and pleasure - an epicurean, seeking to enjoy every meal. ; (adj.): Pleasure-loving - His entire existence demonstrated his epicureantastes.
+cn:adj. 享乐主义的；伊比鸠鲁（学派）的;n. 享乐主义者；美食家
+None
+
+name:EPIGRAM
+en:A brief pointed saying - a speech full of original epigrams.
+cn:n. 警句；讽刺短诗；隽语
+Synonyms: maxim proverb, adage
+
+name:EPITAPH
+en:A tombstone inscription - an epitaphengraved on marble.
+cn:n. 碑文，墓志铭
+None
+
+name:EPITHET
+en:A phrase that describes a quality (good or bad) in a person or thing - "Glaring" error is a commonly used epithet.
+cn:n. 绰号；浑名
+Synonyms: characterization , appellation
+
+name:EQUANIMITY 
+en:(adj.: EQUABLE): Evenness of temper or mind - suffered his cruel fate with equanimity.
+cn:n. 平静；镇定
+Synonyms: serenity, composure, imperturbability, aplomb
+
+name:ERR 
+en:(noun: ERRATUM): To be mistaken or go astray - To err is human, to forgive divine.
+cn:vi. 犯错；做错；犯罪；走上歧途
+Synonyms: stray, blunder
+
+name:ERRATIC
+en:Irresponsible, eccentric; lacking a fixed purpose erratic behavior, reflecting his queer ideas.
+cn:adj. 不稳定的；古怪的;n. 漂泊无定的人；古怪的人
+None
+
+name:ERUDITE
+en:Learned - an erudite person, an editor of many books.
+cn:adj. 博学的；有学问的;n. 饱学之士
+Synonyms: scholarly , knowing
+
+name:ESOTERIC
+en:Understood by only a select few - an esoteric subject, discussed only by scholars.
+cn:adj. 秘传的；限于圈内人的；难懂的
+Synonyms: abstruse, recondite
+
+name:EXCEPTIONABLE
+en:Objectionable - exceptionable behavior, universally criticized.
+cn:adj. 可反对的；可抗议的；引起反感的
+Synonyms: questionable, reprehensible, censurable
+
+name:EXCULPATE
+en:To free from blame - exculpated by a jury. ; Antonyms: arraign, indict, inculpate
+cn:vt. 开脱；使无罪
+Synonyms: vindicate, exonerate, absolve, acquit
+
+name:EXEMPLARY 
+en:(noun: EXEMPLAR): Serving as a model; commendable - exemplary conduct approved by all.
+cn:adj. 典范的；惩戒性的；可仿效的
+Synonyms: illustrative, typical; praiseworthy, laudable
+
+name:EXODUS
+en:Departure, emigration - the pathetic exodus of refugees from their homeland.
+cn:n. 大批的离去
+None
+
+name:EXOTIC
+en:Strange and foreign - an exotic costume imported from Asia.
+cn:adj. 异国的；外来的；异国情调的
+None
+
+name:EXPATIATE
+en:To speak or write at great length - He expatiated on the subject for two hours.
+cn:vi. 详述；细说；漫游
+Synonym: dilate
+
+name:EXPATRIATE 
+en:(verb): To banish or exile; to withdraw from one's country - expatriated for treachery to his country. ; (noun): An expatriated person - expatriates who left the United States to live in Paris.
+cn:vt. 使移居国外；流放，放逐；使放弃国籍;vi. 移居国外；放弃原国籍;n. 被流放者；移居国外者;adj. 移居国外的；被流放的
+None
+
+name:EXPEDIENT 
+en:(adj.): Convenient in helping to attain some purpose - found it expedient to maintain silence at that moment. ; (noun): A means to accomplish something - tried all expedients to achieve a quick result.
+cn:adj. 权宜的；方便的；有利的;n. 权宜之计；应急手段
+Synonyms: opportune, seasonable
+
+name:EXPLOIT 
+en:(verb): To use for one's selfish purpose – refugees exploited by unscrupulous employers. ; (noun): A brilliant deed - lauded for his exploits in science.
+cn:vt. 开发，开拓；剥削；开采;n. 勋绩；功绩
+Synonym: feat
+
+name:EXPOUND 
+en:(noun: EXPOSITION): To set forth in detail; to explain - expounded his theory in a learned article.
+cn:vt. 解释；详细说明;vi. 解释；详细说明
+None
+
+name:EXPURGATE
+en:To purify (usually a piece of writing) of offensive material - expurgate all obscenities before the book could be sold.
+cn:vt. 删除，删去
+Synonyms: purge, delete
+
+name:EXTEMPORANEOUS
+en:Done or spoken on the spur of the moment or without preparation - an extemporaneous speech.
+cn:adj. 即席的，临时的；无准备的；不用讲稿的；善于即席讲话的
+Synonyms: impromptu, offhand
+
+name:EXTINCT
+en:No longer existing or active - the extinct dinosaur, alive only in history.
+cn:adj. 灭绝的，绝种的；熄灭的;vt. 使熄灭
+Synonym: defunct
+
+name:EXTIRPATE
+en:To root out, destroy totally - extirpated the cause of trouble.
+cn:vt. 使连根拔起；灭绝，破除
+Synonyms: eradicate, exterminate, efface, obliterate
+
+name:EXTRANEOUS
+en:Not essential; foreign; irrelevant - excluded material extraneous to the subject. ; Antonyms: germane, intrinsic, inherent, relevant, pertinent
+cn:adj. 外来的；没有关联的；来自体外的
+Synonyms: extrinsic, adventitious
+
+name:EXULTATION
+en:Great rejoicing - received the good news with exultation.
+cn:n. 狂喜；得意（等于exultance，exultancy）
+Synonym: jubilation
+
+-----------f-----------
+name:FACADE
+en:Front or face, especially of a building - a facade of marble.
+cn:n. 正面；表面；外观
+None
+
+name:FACETIOUS
+en:Given to joking or inappropriate gaiety; said in fun - brightened the evening with his facetious remarks. ; Antonyms: solemn, grave, saturnine
+cn:adj. 诙谐的；爱开玩笑的；滑稽的
+Synonyms: jocose, droll, flippant, frivolous
+
+name:FALLACIOUS 
+en:(noun: FALLACY): Unsound; misleading; deceptive - led astray by fallacious reasoning and plans.
+cn:adj. 谬误的；骗人的；靠不住的；不合理的
+None
+
+name:FALLIBLE
+en:Liable to make mistakes or be deceived - Being human, Tom was naturally fallible. ; Antonyms: infallible, unerring
+cn:adj. 易犯错误的；不可靠的
+None
+
+name:FATHOM
+en:To penetrate and understand - difficult to fathom his mysterious actions.
+cn:vt. 看穿；彻底了解；测量…的深度;n. 英寻（测量水深的长度单位）
+None
+
+name:FATUOUS
+en:Foolish; silly - a fatuous suggestion that struck us as stupid. ; Antonyms: judicious, sagacious, sage
+cn:adj. 愚笨的；昏庸的；发呆的；自满的
+Synonyms: inane, vacuous, puerile
+
+name:FEALTY
+en:Faithfulness - The soldiers were pledged to fealty to their ruler. ; Antonyms: disloyalty; infidelity, treachery
+cn:n. 忠诚；忠实
+Synonyms: allegiance, constancy, fidelity
+
+name:FEASIBLE
+en:Workable - a feasible plan, proved practical by - previous experience.
+cn:adj. 可行的；可能的；可实行的
+None
+
+name:FEIGN 
+en:(noun: FEINT): To pretend - He feigned to be angry, but we saw through his pretense.
+cn:vt. 假装；装作；捏造；想象;vi. 假装；装作；作假；佯作
+Synonyms: dissemble, sham, dissimulate, affect
+
+name:FELICITY 
+en:(adj.: FELICITOUS): ; (1) A state of happiness - promoted felicity in the nation. ; (2) A high ability - lie has a felicity of language, mastery of the well-chosen phrase.
+cn:n. 幸福；快乐；幸运;;n. (Felicity)人名；(英)费利西蒂，费莉西蒂(女名)
+Synonym: bliss
+
+name:FERVID
+en:Spirited; ardent - a fervid debater, full of emotion.
+cn:adj. 热的；热心的
+Synonyms: perfervid, impassioned, zealous, fervent, vehement
+
+name:FESTOON 
+en:(noun): A garland of flowers, leaves, etc. hung between two points - the room bright with festoons of Thanksgiving decorations. ; (verb): To hang with festoons - a room festooned with spring flowers.
+cn:vt. 结彩于；[建] 以花彩装饰;n. 花彩；[建] 花彩装饰物
+None
+
+name:FETISH
+en:(1) Something that is believed to have magical powers - savages worshipping the fetish in a ceremonial dance. ; (2) An object of unreasoning devotion and worship – Photography, begun as a hobby, became a fetish.
+cn:n. 恋物（等于fetich）；迷信；偶像
+Synonym: charm, talisman, amulet
+
+name:FIASCO
+en:A ludicrous and complete failure - all his glorious plans ending in a fiasco.
+cn:n. 惨败;n. (Fiasco)人名；(意)菲亚斯科
+Synonym: debacle
+
+name:FICTITIOUS
+en:Unreal; made-up - used a fictitious name to avoid being recognized.
+cn:adj. 虚构的；假想的；编造的；假装的
+Synonym: fabricated
+
+name:FLACCID
+en:Lacking firmness - muscles grown flaccid after the illness.
+cn:adj. [医] 弛缓的；软弱的；无活力的
+Synonyms: flabby, limp
+
+name:FLAGRANT
+en:Outstandingly bad - condemned for his flagrant abuse of power.
+cn:adj. 公然的；不能容忍的；非常的；恶名昭著的（名词flagrancy，副词flagrantly）
+Synonyms: glaring, scandalous, notorious, conspicuous, gross
+
+name:FLAMBOYANT
+en:Elaborately showy - written in a flamboyant, style, full of highly decorative imagery.
+cn:adj. 艳丽的；火焰似的；炫耀的;n. 凤凰木
+Synonyms: florid, ornate, resplendent, embellished, garish, gaudy, gorgeous, rococo
+
+name:FLAUNT
+en:Display or wave boastfully - flaunted the excellent report before his delighted parents.
+cn:vt. 炫耀；飘扬;vi. 飘扬；夸耀;n. 炫耀；飘扬；招展
+None
+
+name:FLEETING
+en:Passing swiftly -the fleeting hours of happiness
+cn:adj. 飞逝的；转瞬间的;v. 迅速移动（fleet的ing形式）
+Synonyms: transitory, fugitive
+
+name:FLUCTUATE
+en:To waver from one course to another; to vary irregularly - his mood fluctuating with every hour.
+cn:vi. 波动；涨落；动摇;vt. 使波动；使动摇
+Synonyms: oscillate, vacillate, undulate, sway
+
+name:FORBEAR 
+en:(noun: FORBEARANCE): To exercise self control; to keep from - forbearing to shoot the animal despite temptation.
+cn:vt. 忍耐；克制;vi. 忍耐；克制;n. 祖先
+Synonyms: restrain, abstain
+
+name:FORENSIC
+en:Pertaining to public discussion or law courts - a lawyer gifted in forensic debate.
+cn:adj. 法院的；辩论的；适于法庭的
+Synonyms: rhetorical, oratorical
+
+name:FORTUITOUS
+en:Accidental - a fortuitous meeting with a friend in need.
+cn:adj. 偶然的，意外的；幸运的
+Synonyms: casual, incidental, adventitious, random
+
+name:FRACAS
+en:A disorderly quarrel - A fracas broke up the meeting.
+cn:n. 吵闹；喧噪;n. (Fracas)人名；(意)弗拉卡斯
+Synonyms: brawl, altercation, fray, wrangle, imbroglio
+
+name:FRUSTRATE
+en:To prevent (the attainment of an object); to defeat or render ineffectual - His scholastic progress was frustrated by a serious illness.
+cn:vt. 挫败；阻挠；使感到灰心;vi. 失败；受挫;adj. 挫败的；无益的
+Synonyms: balk, thwart, foil, baffle, obstruct, discomfit
+
+name:FULSOME
+en:Disgustingly excessive - nauseated by fulsome praise.
+cn:adj. 令人生厌的；过度的
+None
+
+-----------g-----------
+name:GARNISH
+en:To trim or decorate - dishes garnished attractively with greens.
+cn:vt. 装饰;n. 为增加色香味而添加的配菜；装饰品;n. (Garnish)人名；(英)加尼什
+Synonyms: adorn, deck
+
+name:GENEALOGY
+en:A record of a person's or a family's ancestors or relatives - an interesting genealogy, including saints and sinners.
+cn:n. 宗谱；血统；家系；系谱学
+Synonym: lineage
+
+name:GENESIS
+en:Origin - chemistry, which had its genesis in alchemy.
+cn:n. 发生；起源;n. (Genesis)人名；(英)吉妮西丝
+Synonym: inception
+
+name:GESTICULATE
+en:To make gestures, or indicate feelings by. motions - gesticulated wildly to show his distress.
+cn:vi. 用姿势示意；（讲话时）做手势;vt. 用手势谈话；做姿势表达
+None
+
+name:GHASTLY
+en:Horrible, deathlike - a ghastly disaster which shocked the world.
+cn:adj. 可怕的；惨白的；惊人的；极坏的;adv. 恐怖地；惨白地
+Synonyms: gruesome, grisly, pallid, macabre, grim, lurid
+
+name:GIBE 
+en:(variant spelling: JIBE): To laugh at; to utter with scorn - gibed at his enemy mercilessly.
+cn:vt. 嘲笑；愚弄;vi. 嘲笑；嘲弄;n. 嘲讽话
+Synonyms: mock, sneer, jeer, scoff, flout, deride (adj.: derisive), rail, taunt
+
+name:GLIB
+en:Smooth-spoken, fluent - a glib liar, distorting the truth effortlessly.
+cn:adj. 口齿伶俐的，油嘴滑舌的
+None
+
+name:GLUTTONOUS 
+en:(noun. GLUTTON; verb: GLUT): Inclined to cat to excess - gulped down his food in gluttonous fashion.
+cn:adj. 贪吃的，暴食的；饕餮的
+Synonyms:voracious, intemperate
+
+name:GOSSAMER 
+en:(noun): A very thin gauzelike fabric or structure - a poem so delicate that it seemed an unreal gossamer. ; (adj.): Thin and light - the gossamer wings of a dragon fly.
+cn:n. 蛛丝；薄纱；小蜘蛛网;adj. 轻飘飘的；薄弱的
+Synonyms: diaphanous, flimsy, gauzelike Antonyms: substantial, ponderous
+
+name:GREGARIOUS
+en:Habitually fond of associating in a company or herd - gregarious sheep; that gregarious animal, man. ; Antonyms:lone, aloof
+cn:adj. 社交的；群居的
+None
+
+name:GRIMACE
+en:A distortion of the face to express an attitude or feeling - a grimace that was more expressive than words.
+cn:vi. 扮鬼脸；作怪相；作苦相;n. 鬼脸；怪相；痛苦的表情
+None
+
+-----------h-----------
+name:HAIL
+en:To greet - The crowd hailed the returning hero.
+cn:n. 冰雹；致敬；招呼；一阵;vt. 致敬；招呼；向...欢呼；猛发；使象下雹样落下（过去式hailed，过去分词hailed，现在分词hailing，第三人称单数hails）;vi. 招呼；下雹;int. 万岁；欢迎;n. (Hail)人名；(阿拉伯、捷)海尔
+Synonyms: accost, salute
+
+name:HARANGUE 
+en:(verb): To deliver a long. noisy speech- harangued the multitude. ; (noun): A loud, tiresome speech - an empty harangue which bored his audience.
+cn:n. 长篇大论；高谈阔论；热烈的演说;vt. 向…滔滔不绝地演讲；大声训斥;vi. 高谈阔论；慷慨陈词
+Synonym: tirade
+
+name:HARBINGER
+en:A forerunner; ail announcer - the robin, harbinger of spring.
+cn:n. 先驱；前兆；预告者;vt. 预告；充做…的前驱
+Synonyms:precursor, herald
+
+name:HAUGHTY
+en:Proud; looking down with contempt on others - dismissed the messenger in a haughty manner.
+cn:adj. 傲慢的；自大的
+None
+
+name:HEEDLESS
+en:Thoughtless; taking little care - rushed into battle, heedless of the danger. ; Antonyms: prudent, circumspect, mindful, wary
+cn:adj. 不注意的；不留心的
+Synonyms: inadvertent, rash, incautious
+
+name:HEINOUS
+en:Wicked; hateful - committed a heinous crime.
+cn:adj. 可憎的；极凶恶的
+Synonyms: atrocious, outrageous, monstrous, odious, nefarious, abominable
+
+name:HERESY
+en:An opinion held in opposition to the traditional view - a view condemned as heresy.
+cn:n. 异端；异端邪说；异教
+Synonym: heterodoxy
+
+name:HIATUS
+en:A gap or vacancy; break -left a hiatus on the page where he erased a sentence.
+cn:n. 裂缝，空隙；脱漏部分
+Synonym:breach
+
+name:HISTRIONIC
+en:Pertaining to the theater; designed for show - broke into histrionic laughter, hollow and insincere.
+cn:adj. 戏剧的；演员的，表演的;n. 演员
+Synonyms: dramatic, theatrical
+
+name:HOAX 
+en:(noun): A trick or deception; a practical joke - played a hoax upon the credulous public. ; (verb): To play a trick on; to deceive - He hoaxed the crowd completely with his disguise.
+cn:vt. 愚弄；欺骗;n. 骗局；恶作剧
+Synonym: canard
+
+name:HOMONYM
+en:Two words having the same sound but different meanings - confusing such homonyms as mail add male.
+cn:n. 同音异义词；同形异义词；同形同音异义词；同名异物
+None
+
+name:HOVEL
+en:A dirty or wretched dwelling - born in a hovel, died in a mansion.
+cn:n. 小屋；栅舍；茅舍;vt. 使…住在茅屋；把…拴入棚舍
+None
+
+name:HYPERBOLE
+en:Extravagant exaggeration for effect - An example of hyperbole: "There are a million objections to the project."
+cn:n. 夸张的语句；夸张法
+Synonym: overstatement
+
+name:HYPOTHESIS
+en:An assumption made for the sake of argument - worked from a fantastic hypothesis.
+cn:n. 假设
+Synonym: supposition
+
+-----------i-----------
+name:IDIOSYNCRASY
+en:A. personal peculiarity - Wearing white was one of Whistler's idiosyncrasies.
+cn:n. 特质；气质；风格
+Synonyms: eccentricity, foible, mannerism, crotchet, aberration, quirk, singularity
+
+name:IGNOMINIOUS 
+en:(noun: IGNOMINY): Incurring public disgrace - suffered an ignominious descent from political power. ; Antonyms: illustrious, renowned, preeminent
+cn:adj. 可耻的；下流的
+Synonyms: infamous, degrading, opprobrious, odious
+
+name:IMMACULATE
+en:Spotless; pure - an immaculate reputation. ; Antonyms: defiled, sullied, blemished
+cn:adj. 完美的；洁净的；无瑕疵的
+Synonyms: undefiled, unsullied, unblemished, untarnished
+
+name:IMMINENT
+en:Likely to occur soon - stood in imminent peril.
+cn:adj. 即将来临的；迫近的
+Synonym: impending
+
+name:IMMUNE 
+en:(verb: IMMUNIZE): Exempt from; protected from - immune from taxation.
+cn:adj. 免疫的；免于……的，免除的;n. 免疫者；免除者
+Synonym : unsusceptible
+
+name:IMPALE
+en:To pierce through with a pointed instrument - impaled a spider to the wall.
+cn:vt. 刺穿；钉住；使绝望
+None
+
+name:IMPEACH
+en:(1) To accuse (a public official) of wrongdoing - impeached the judge for accepting a bribe. ; (2) To cast discredit upon - impeached his motives.
+cn:vt. 弹劾；归咎；怀疑;n. 控告，检举；弹劾；怀疑
+Synonyms: call in question, discredit
+
+name:IMPECCABLE
+en:Faultless - performed with impeccable skill. ; Antonyms: culpable, fallible
+cn:adj. 无瑕疵的；没有缺点的
+Synonyms: consummate, irreproachable, unerring, infallible
+
+name:IMPERVIOUS
+en:Incapable of being penetrated - a mind impervious to new ideas. ; Antonyms: permeable, pervasive
+cn:adj. 不受影响的，无动于衷的；不能渗透的
+Synonyms: impermeable, impenetrable
+
+name:IMPLACABLE
+en:Incapable of being soothed, made peaceful, or forgiving - implacable resentment. ; Antonyms: placable, forbearing
+cn:adj. 不能安抚的；难和解的；不能缓和的
+Synonyms: unrelenting, inexorable, unappeasable
+
+name:IMPLICIT
+en:(1) Implied but not clearly expressed - an implicit agreement. ; (2) Unquestioning - implicit confidence.
+cn:adj. 含蓄的；暗示的；盲从的
+Synonyms: tacit, implied
+
+name:IMPORT 
+en:(noun): Meaning; significance or importance - a matter of great import.
+cn:n. 进口，进口货；输入；意思，含义；重要性;vt. 输入，进口；含…的意思;vi. 输入，进口
+Synonyms: purport, moment, consequence
+
+name:IMPOSTOR 
+en:(noun: IMPOSTURE): One who pretends to be what he is notunmasked as an impostor.
+cn:n. 骗子；冒充者
+Synonyms: quack, mountebank, charlatan, bogus, fraud
+
+name:IMPRECATION
+en:A curse - hurled imprecations at those who would not listen to him. ; Antonyms: benediction, benison
+cn:n. 祈求；诅咒；咒语
+Synonyms: execration, malediction, anathema
+
+name:IMPREGNABLE
+en:Unconquerable - an impregnable fortress.
+cn:adj. 无法攻取的；不受影响的；要塞坚固的；可以受孕的
+Synonym: invincible
+
+name:IMPROPRIETY
+en:Improper act, manners, or expression - guilty of impropriety in public office.
+cn:n. 不适当；不正确；用词错误；[审计] 不正当行为
+Synonyms: indecency, indecorum
+
+name:IMPROVIDENT
+en:Lacking in thrift; not providing for future needs - an improvident spender.
+cn:adj. 浪费的；无远见的；无先见之明的
+Synonyms: prodigal, shiftless
+
+name:IMPUGN
+en:To attack or criticize as false; to call in question - impugned his honesty.
+cn:vt. 责难；驳斥
+None
+
+name:INCARCERATE
+en:To imprison - crushed his opponents by incarcerating them. ; Antonyms: emancipate, enfranchise
+cn:vt. 监禁；下狱；禁闭;adj. 监禁的；禁闭的
+Synonyms: intern, immure
+
+name:INCISIVE
+en:Cutting, penetrating - incisive criticism.
+cn:adj. 深刻的；敏锐的；锋利的
+Synonyms: sarcastic, mordant, trenchant, acute
+
+name:INCOGNITO
+en:With one's identity concealed - traveled incognito.
+cn:adj. 改名的；微行的；隐名埋姓的;adv. 隐姓埋名地;n. 匿名者；微行者;n. (Incognito)人名；(意、西)因科尼托
+None
+
+name:INCONTROVERTIBLE
+en:Indisputable - incontrovertible evidence.
+cn:adj. 无可争议的；无疑的；明白的
+Synonyms: irrefutable, -indubitable
+
+name:INCREMENT
+en:An increase - a salary increment.
+cn:n. [数] 增量；增加；增额；盈余
+Synonym: accrual
+
+name:INCUMBENT 
+en:(noun): An officeholder - the incumbent in an election. ; (adj.): Obligatory - felt it incumbent to reply.
+cn:adj. 现任的；依靠的；负有职责的;n. 在职者；现任者；领圣俸者
+Synonyms: - mandatory, imperative
+
+name:INDEFATIGABLE
+en:Untiring - an indefatigable worker.
+cn:adj. 不知疲倦的；不屈不挠的；有耐性的
+Synonyms:unflagging, unremitting, persevering
+
+name:INDIGENOUS
+en:Native - Rice is indigenous to China.
+cn:adj. 本土的；土著的；国产的；固有的
+Synonyms:innate, inborn
+
+name:INDOOMITABLE
+en:Stubborn in determination not to be subdued - indomitable courage. ; Antonyms:tractable, amenable, docile, submissive
+cn:
+Synonyms:insuperable, irrepressible, invincible, unyielding
+
+name:INFERENCE
+en:A conclusion reached by reasoning from data or premises - an inference drawn from his remarks.
+cn:n. 推理；推论；推断
+Synonyms:deduction, implication
+
+name:INGENIOUS
+en:Demonstrating originality, skill, or resourcefulness - an ingenious device. ; Antonyms:maladroit, gauche
+cn:adj. 有独创性的；机灵的，精制的；心灵手巧的
+Synonyms:dextrous, inventive, adroit
+
+name:INGENUOUS
+en:Simple and straightforward; concealing nothing - an ingenuous plan that anyone could see through.
+cn:adj. 天真的；坦白的；正直的；朴实的
+Synonyms: unsophisticated, naive, candid
+
+name:INGRATIATE
+en:To win another's favor or good opinion tried to ingratiate himself with the politician.
+cn:vt. 使迎合；使讨好；使逢迎
+None
+
+name:INHIBIT
+en:To check or hinder - inhibited his friend from a foolhardy course.
+cn:vt. 抑制；禁止
+Synonyms:restrain, curb
+
+name:INNOCUOUS
+en:Harmless; inoffensive - an innocuous remark, but it enraged him.
+cn:adj. 无害的；无伤大雅的
+None
+
+name:INNUENDO
+en:An indirect reference or suggestion (frequently derogatory) - conveyed his idea by innuendo.
+cn:n. 暗讽，讽刺；影射;vt. 暗示，旁敲侧击地表达;vi. 影射；说讽刺话
+Synonyms: (verb) intimate, insinuate
+
+name:INORDINATE
+en:Excessive - spoiled by inordinate praise.
+cn:adj. 过度的；无节制的；紊乱的
+Synonyms: immoderate, intemperate, extravagant
+
+name:INSATIABLE
+en:Unable to be satisfied - insatiable greed
+cn:adj. 贪得无厌的；不知足的
+Synonyms. unappeasable, unquenchable, insatiate
+
+name:INSCRUTABLE
+en:Incapable of interpretation or understanding - the inscrutable smile of the Mona Lisa.
+cn:adj. 神秘的；不可理解的；不能预测的；不可思议的
+Synonyms: unfathomable, cryptic, enigmatic
+
+name:INSIDIOUS
+en:Working secretly or slyly - that insidious disease, cancer.
+cn:adj. 阴险的；隐伏的；暗中为害的；狡猾的
+Synonyms: wily, crafty, furtive, treacherous, artful, guileful perfidious
+
+name:INSTIGATE
+en:To stir tip - instigated discontent among the soldiers.
+cn:vt. 唆使；煽动；教唆；怂恿
+Synonyms: foment, incite
+
+name:INTEGRITY
+en:Honesty, moral soundness - a man of proved integrity.
+cn:n. 完整；正直；诚实；廉正
+Synonyms: probity, uprightness, incorruptibility
+
+name:INVEIGH 
+en:(noun-. INVECTIVE): To speak angrily or bitterly-inveighed against economic discrimination.
+cn:vi. 痛骂；漫骂；猛烈抨击
+Synonyms: rail, denounce, fulminate, vituperate
+
+name:IRASCIBLE
+en:Easily angered - Even petty things made Peter irascible. ; Antonyms: placid, equable
+cn:adj. 易怒的
+Synonyms: choleric, petulant, testy, peevish, splenetic, touchy
+
+name:IRE
+en:Anger -aroused his ire.
+cn:n. 忿怒;vt. 使发怒;n. (Ire)人名；(日)谓例 (姓)
+Synonyms: resentment; (adj.) irate, incensed
+
+name:IRKSOME
+en:Tedious, monotonous - an irksome chore that no one liked.
+cn:adj. 令人厌烦的，讨厌的；令人厌恶的
+None
+
+name:ITINERANT
+en:Traveling about; wandering - an itinerant salesman.
+cn:adj. 巡回的；流动的;n. 巡回者；行商
+Synonym: nomadic
+
+-----------j-----------
+name:JARGON
+en:Confused, unintelligible, meaningless talk; special vocabulary used only by members of a group or trade - Variety, a newspaper written in theatrical jargon.
+cn:n. 行话，术语；黄锆石
+Synonyms: gibberish, argot, cant
+
+name:JAUNTY
+en:Having an air of easy carelessness or liveliness - walked with a jaunty step. ; Antonyms: somber, staid
+cn:adj. 快活的；活泼的；洋洋得意的；感到自信和自满的
+Synonyms: sprightly, airy, gay, nonchalant, debonair
+
+name:JEOPARDY
+en:Danger - His life was in jeopardy.
+cn:n. 危险；（被告处于被判罪或受处罚的）危险境地
+Synonyms: hazard, peril
+
+name:JETTISON
+en:To throw overboard (as cargo); to throw off (as a burden or something in the way )- jettisoned their old candidate as a political liability.
+cn:n. 投弃；投弃货物;vt. 投弃（船舶遇难时投弃货物以为减轻负载）
+None
+
+name:JUDICIOUS
+en:Wise; using or exhibiting good judgment - a well-chosen plan, termed judicious by all.
+cn:adj. 明智的；头脑精明的；判断正确的
+Synonyms:discreet, politic, discerning
+
+-----------k-----------
+name:KALEIDOSCOPIC
+en:Constantly changing or varying in pattern or scenes - kaleidoscopic views of New York.
+cn:adj. 千变万化的；万花筒似的
+None
+
+name:KEN
+en:Range of sight or understanding - something beyond our ken.
+cn:n. 肯恩（男名）
+Synonym: insight
+
+-----------l-----------
+name:LABYRINTH 
+en:(adj.: LABYRINTHINE): A structure or intricate passage out of which it is difficult to find one's way (also applied to spiritual and intellectual complexities) - confused by a labyrinth of intellectual discussions.
+cn:n. 迷宫；[解剖] 迷路；难解的事物
+Synonym:maze
+
+name:LACHRYMOSE
+en:Causing or given to shedding tears - a lachrymose tragedy.
+cn:adj. 爱哭的，易流泪的；悲哀的
+None
+
+name:LACONIC
+en:Saying much in few words - a laconic reply that spoke volumes. ; Antonyms:verbose, prolix, redundant, diffuse, tautological, turgid, garrulous, voluble
+cn:adj. 简洁的，简明的
+Synonyms:concise, pithy, terse, succinct, taciturn, reticent
+
+name:LARCENY
+en:Theft - indicted for grand larceny.
+cn:n. 盗窃；盗窃罪
+None
+
+name:LATENT
+en:Hidden; present but not fully developed - latent talent that time will reveal. ; Antonyms:apparent, patent
+cn:adj. 潜在的；潜伏的；隐藏的
+Synonyms:dormant, quiescent, covert, potential
+
+name:LAVISH
+en:(1) Profuse or generous - lavish in praise. ; (2) Given to extravagance - a lavish spender. ; Antonyms: parsimonious, niggardly, frugal, penurious
+cn:adj. 浪费的；丰富的；大方的;vt. 浪费；慷慨给予；滥用
+Synonyms: prodigal, munificent, magnanimous.
+
+name:LETHAL
+en:Deadly - a lethal weapon.
+cn:adj. 致命的，致死的;n. 致死因子
+Synonyms: mortal, fatal
+
+name:LONGEVITY
+en:Prolonged duration of life - a country remarkable for the longevity of its inhabitants.
+cn:n. 长寿，长命；寿命
+None
+
+name:LOW
+en:To bellow softly like cattle - the lowing herd in the meadow.
+cn:adj. 低的，浅的；卑贱的；粗俗的；消沉的;adv. 低声地；谦卑地，低下地;n. 低；低价；低点；牛叫声;vi. 牛叫;n. (Low)人名；(英、德)洛
+Synonym: moo
+
+name:LUCID
+en:Clear; transparent; easily understood - a lucid explanation of a difficult text. ; Antonyms: abstruse, obscure
+cn:adj. 明晰的；透明的；易懂的；头脑清楚的
+Synonyms: pellucid, perspicuous, intelligible, limpid, luminous, translucent
+
+name:LUDICROUS
+en:Ridiculous; producing laughter - a ludicrous remark that set them all to roaring. ; Antonyms: doleful, lugubrious, dismal
+cn:adj. 滑稽的；荒唐的
+Synonyms: mirthful, droll, comical, absurd
+
+name:LUMINARY
+en:An eminent person; a celestial body - the platform graced by a number of luminaries.
+cn:n. 发光体；杰出人物；知识渊博的人
+None
+
+-----------m-----------
+name:MACHIAVELLIAN
+en:Sacrificing moral principles in order to attain power; politically cunning; crafty - a machiavellian design, wickedly contrived.
+cn:adj. 不择手段的；狡猾的；马基雅弗利的;n. 权谋政治家
+Synonym: unscrupulous
+
+name:MALICIOUS 
+en:(noun: MALICE): Bearing, or acting with, deliberate ill-will or spite - hurting with malicious intent.
+cn:adj. 恶意的；恶毒的；蓄意的；怀恨的
+Synonyms:rancorous, malignant, malevolent, virulent, vindictive
+
+name:MASQUERADE 
+en:(verb): To assume a deceptive appearance or character - a thief masquerading as an honest man. ; (noun): A disguise; a group of people in disguise or fancy costumes - a masquerade so perfect no one could guess his identity.
+cn:vi. 化装；伪装;n. 伪装；化妆舞会;vt. 化装；乔装
+Synonyms: dissemble, feign
+
+name:MAUDLIN
+en:Sentimental to the point of tears - turned maudlin at the mention of his lost dog.
+cn:adj. 感情脆弱的；容易流泪的；酒后伤感的;n. 伤感；易流泪;n. (Maudlin)人名；(英)莫德琳(教名Magdalen的昵称)
+Synonym : mawkish, lachrymose
+
+name:MEANDER
+en:To walk about (or talk) aimlessly; to wind about (as a stream) - meandered through the town, looking into shop windows.
+cn:n. 漫步；曲流（常用复数）;vt. 漫步；蜿蜒缓慢流动;vi. 漫步；漫谈
+Synonym: ramble
+
+name:MEDIOCRE
+en:Average in quality - a mediocre performance, unworthy of his talents.
+cn:adj. 普通的；平凡的；中等的
+None
+
+name:MERCENARY
+en:Acting solely from a consideration of reward or profit - actuated by a mercenary motive.
+cn:adj. 雇佣的；唯利是图的;n. 雇佣兵；唯利是图者
+Synonym: venal
+
+name:MERETRICIOUS
+en:Attracting in a false, cheap, or showy manner- a meretricious beauty that is too flashy to be real.
+cn:adj. 俗气的；娼妓的；华丽而庸俗的
+Synonyms:tawdry, specious
+
+name:METICULOUS
+en:Fussy about minute details - took meticulous pains with his composition. ; Antonyms:desultory, perfunctory, slovenly
+cn:adj. 一丝不苟的；小心翼翼的；拘泥小节的
+Synonyms:fastidious, punctilious, overscrupulous, finical, methodical
+
+name:METTLE 
+en:(adj.: METTLESOME: high-spirited ): Disposition; spirit; courage - His mettle was tried in battle. ; Idiom: to be on one's mettle (meaning, “ready to do one's best”)
+cn:n. 勇气；气质；耐力
+Synonyms:temperament, ardor
+
+name:MICROCOSM
+en:A little world, or a universe in miniature this village, a microcosm of the great outside world.
+cn:n. 微观世界；小宇宙；作为宇宙缩影的人类；缩图（等于microcosmos）
+None
+
+name:MIMIC
+en:To make fun of or copy by imitating - mimicked the comedian's gestures.
+cn:vt. 模仿，摹拟;n. 效颦者，模仿者；仿制品；小丑;adj. 模仿的，模拟的；假装的
+None
+
+name:MISANTHROPIC 
+en:(noun: MISANTHROPE): Hating or distrusting mankind - condemned for his misanthropic views. ; Antonyms: philanthropic, altruistic
+cn:adj. 厌恶人类的；不愿与人来往的
+None
+
+name:MISNOMER
+en:A name or term that describes wrongly - To call him a brave man is really a misnomer.
+cn:n. 用词不当；误称；写错姓名
+None
+
+name:MONOLOGUE
+en:A speech by one person - The actor gave his views in a dramatic monologue. ; Antonyms:colloquy (adj. colloquial): conversation between two or more persons; dialogue: conversation between two persons
+cn:n. 独白
+Synonym:soliloquy
+
+name:MOROSE
+en:Gloomy; ill-humored - shunned because of his morose temper. ; Antonyms: blithe, genial
+cn:adj. 郁闷的；孤僻的
+Synonyms: sulky, crabbed, sullen, splenetic, saturnine
+
+name:MOTLEY
+en:Of various colors; of mixed ingredients - a motley costume; a motley crowd.
+cn:adj. 杂色的；混杂的；五颜六色的;n. 混杂；杂色衣服；小丑;n. (Motley)人名；(英)莫特利
+Synonyms: checkered (referring to a varied career), piebald, variegated, diverse, heterogeneous
+
+name:MOTTLED
+en:Spotted or streaked with varied colors - a mottled pony.
+cn:adj. 斑驳的，杂色的;v. 使成杂色（mottle的过去分词）
+Synonyms:blotched, dappled
+
+name:MUNDANE
+en:Of, or pertaining to, the world, as contrasted with the spirit - mundane affairs.
+cn:adj. 世俗的，平凡的；世界的，宇宙的
+Synonyms:earthly, terrestrial, secular, temporal
+
+name:MURKY
+en:Dark; cloudy - a murky cavern. ; Antonyms:resplendent, glowing, lustrous, luminous, fulgent, coruscating
+cn:adj. 黑暗的；朦胧的；阴郁的
+Synonyms:dismal, tenebrous, fuliginous
+
+name:MUTABLE
+en:Given to frequent change in nature, mood, or form - mutable in mood as a spring wind. ; Antonyms:constant, steady
+cn:adj. 易变的，不定的；性情不定的
+Synonyms:vacillating, fickle, inconstant, fitful, mercurial, wavering, capricious
+
+name:MYRIAD
+en:Innumerable - the myriad stars in the heavens.
+cn:adj. 无数的；种种的;n. 无数，极大数量；无数的人或物
+None
+
+-----------n-----------
+name:NAUTICAL
+en:Pertaining to ships or navigation - a nautical career.
+cn:adj. 航海的，海上的；船员的
+Synonyms: marine, naval, maritime
+
+name:NETTLE
+en:To irritate or provoke - nettled by his critics.
+cn:vt. 剌激；惹恼；用荨麻刺;n. 荨麻;adj. 荨麻科的
+Synonyms: vex, pique, goad
+
+name:NOCTURNAL
+en:Pertaining to, or occurring in, the night - awakened by the sounds of a nocturnal prowler.
+cn:adj. 夜的；夜曲的；夜间发生的
+None
+
+name:NOISOME
+en:Foul-smelling; harmful-the swamp gave off a noisome odor.
+cn:adj. 恶臭的；有害的
+Synonyms: malodorous, fetid, disgusting; noxious, deleterious
+
+name:NONCHALANT
+en:Unmoved or indifferent; casual - reacted to the news in a nonchalant manner. ; Antonyms: enthusiastic, zealous
+cn:adj. 冷淡的，漠不关心的
+Synonym: apathetic
+
+name:NOSTALGIA
+en:Homesickness - felt nostalgia for the old homestead.
+cn:n. 乡愁；怀旧之情；怀乡病
+None
+
+name:NOTORIOUS
+en:Widely known (in a bad sense) - a notorious gambler.
+cn:adj. 声名狼藉的，臭名昭著的
+None
+
+name:NOVICE
+en:A beginner - conducted himself in politics like a novice.
+cn:n. 初学者，新手;n. (Novice)人名；(法)诺维斯
+Synonyms:tyro, neophyte
+
+-----------o-----------
+name:OBDURATE
+en:Hard-hearted; stubborn - an obdurate, unrepentant criminal. ; Antonyms:submissive, docile, compliant
+cn:adj. 顽固的，执拗的；冷酷无情的
+Synonyms:adamant, unyielding, inflexible
+
+name:OBLIVIOUS 
+en:(noun: OBLIVION): Forgetful; absent-minded - walking oblivious of his surroundings.
+cn:adj. 遗忘的；健忘的；不注意的；不知道的
+Synonyms:unmindful, heedless, abstracted
+
+name:OBSESSION
+en:A persistent feeling, idea, activity, etc., which dominates a person; the state of being exclusively preoccupied by a fixed idea - Now that he has learned bowling, it has become his obsession.
+cn:n. 痴迷；困扰；[内科][心理] 强迫观念
+Synonyms:mania, infatuation (a foolish passion), monomania
+
+name:OBSOLETE
+en:No longer in use - an obsolete word, not even included by most dictionaries.
+cn:adj. 废弃的；老式的;n. 废词；陈腐的人;vt. 淘汰；废弃
+Synonyms:archaic, antiquated
+
+name:OBTRUSIVE 
+en:(verb: OBTRUDE): Thrusting oneself or itself into undue prominence - made himself obnoxiously obtrusive.
+cn:adj. 突出的；强迫人的；冒失的
+Synonyms:intrusive, aggressive
+
+name:OBVIATE
+en:To prevent, dispose of, or make unnecessary by appropriate actions - an act which obviated all objections.
+cn:vt. 排除；避免；消除
+Synonyms:preclude, forestall
+
+name:OMNIPOTENT
+en:All-powerful - an omnipotent despot.
+cn:adj. 无所不能的；全能的；有无限权力的
+None
+
+name:ONUS
+en:Burden; duty; obligation - bore the onus of his difficult office creditably.
+cn:n. 责任，义务；负担;n. (Onus)人名；(英)奥纳斯
+None
+
+name:OSTENSIBLE
+en:Apparent; pretended - his ostensible, though not actual, purpose.
+cn:adj. 表面的；假装的
+None
+
+name:OSTRACIZE
+en:To banish; to exclude from public favor or privileges - a former premier ostracized by popular vote.
+cn:vt. 放逐；排斥；按贝壳流放法放逐
+Synonym: outlaw
+
+-----------p-----------
+name:PANACEA
+en:A remedy for all ills - seeking a panacea to cure our social troubles.
+cn:n. 灵丹妙药；万能药
+Synonym: nostrum
+
+name:PANEGYRIC
+en:A speech or writing of extravagant praise - delivered a panegyric at his friend's testimonial dinner. ; Antonyms:censure, disparagement, derogation, castigation, depreciation
+cn:n. 颂词，赞颂
+Synonyms:eulogy, adulation, tribute, laudation (adj. laudatory), encomium
+
+name:PARADOX
+en:A self -contradictory statement; something that appears to be absurd and yet may be true -"Life is too important a matter to he taken seriously." - a paradox by Oscar Wilde.
+cn:n. 悖论，反论；似非而是的论点；自相矛盾的人或事
+Synonym: anomaly
+
+name:PARAPHRASE
+en:To restate the meaning of a passage in other words - paraphrased the poem in a few lines of prose.
+cn:n. 释义；改述；演释曲;vt. 改述;vi. 释义；意译
+None
+
+name:PARODY 
+en:(noun): A humorous imitation of an author's style and mannerisms - wrote a parody on Kipling's "Gunga Din." ; (verb): To write a parody - parodied the popular authors of the (lay to his audience's amusement.
+cn:n. 拙劣的模仿；诙谐的改编诗文;vt. 拙劣模仿
+Synonym: Mimic
+
+name:PECCADILLO
+en:A petty fault-possesses one peccadillo among his many virtues.
+cn:n. 轻罪；小过失；小瑕疵
+Synonyms: frailty, foible, flaw, blemish
+
+name:PECUNIARY
+en:Pertaining to money - involved in pecuniary difficulties.
+cn:adj. 金钱的；应罚款的
+Synonyms; financial, fiscal, monetary
+
+name:PEDANT 
+en:(adj.: PEDANTIC): One who proudly shows off his learning or who overrates his knowledge - like a pedant glorying in his scholarly trifles.
+cn:n. 学究；书呆子；卖弄学问的人；空谈家
+None
+
+name:PENSIVE
+en:Sadly thoughtful - softly sang his pensive song.
+cn:adj. 沉思的，忧郁的；悲伤的，哀愁的
+Synonyms: reflective, meditative, contemplative, musing
+
+name:PEREMPTORY
+en:Positive in expressing an opinion - gave a peremptory judgment. ; Antonyms:indecisive, tentative
+cn:adj. 强制的；绝对的；断然的；专横的
+Synonyms:decisive, resolute, imperious, positive, dogmatic
+
+name:PERTINACIOUS
+en:Clinging doggedly to an opinion or purpose - pertinacious in his efforts.
+cn:adj. 顽固的；执拗的
+Synonyms:obdurate, tenacious, persistent, persevering, intractable, inflexible
+
+name:PERUSE
+en:To read carefully - perused the important letter.
+cn:vt. 详细考察；精读
+None
+
+name:PERVERSE
+en:Willfully bent on doing the wrong thing - a perverse lad, always disobeying his parents.
+cn:adj. 堕落的，不正当的；倔强的；违反常情的
+Synonyms:headstrong, froward, refractory, wayward, fractious
+
+name:PETRIFY
+en:To paralyze with horror, fear, or surprise - petrified by the enemy bombardment.
+cn:vi. 石化；惊呆;vt. 使…石化；使…惊呆
+Synonyms:stupefy, stun, bewilder, amaze
+
+name:PLAGIARISM
+en:Adopting and reproducing, without acknowledgment, the writings or ideas of another and passing them off as one's own - denied the charge of deliberate plagiarism.
+cn:n. 剽窃；剽窃物
+None
+
+name:PLATITUDE
+en:A dull and commonplace remark - bored people by his pompous phrases and platitudes.
+cn:n. 陈词滥调；平凡；陈腐
+Synonyms:bromide, truism, axiom
+
+name:PLEBEIAN
+en:Pertaining to the common people; hence, common or vulgar - plebeian in his tastes and outlook. ; Antonyms:patrician, aristocratic
+cn:adj. 平民的；普通的；粗俗的;n. 平民；百姓；粗俗的人
+None
+
+name:PLEBISCITE
+en:A direct vote by the people - The decision to confederate was ratified by plebiscite.
+cn:n. 公民投票；平民表决
+None
+
+name:POIGNANT
+en:(1) Gripping and moving the feelings powerfully - a poignant grief. ; (2) Piercing, biting, pointed - a poignant cry; poignant wit.
+cn:adj. 尖锐的；辛酸的；深刻的；切中要害的;n. (Poignant)人名；(法)普瓦尼昂
+None
+
+name:PONDEROUS
+en:Very heavy; clumsy; dull - a ponderous speech, extremely boring.
+cn:adj. 笨重的；沉闷的；呆板的
+None
+
+name:PRECARIOUS
+en:Uncertain or risky - earning a precarious livelihood, providing no luxuries.
+cn:adj. 危险的；不确定的
+None
+
+name:PRECIPITOUS
+en:(1) Very steep - a precipitous cliff. ; (2) Descending rapidly - a precipitous decline in popularity.
+cn:adj. 险峻的；急躁的，鲁莽的
+None
+
+name:PRECOCIOUS
+en:Remarkable for early mental development a precocious genius.
+cn:adj. 早熟的；过早发育的
+None
+
+name:PREDATORY
+en:(1) Inclined to plunder or rob; - predatory bands roaming the countryside. ; (2) Preying on, others - predatory animals prowling about.
+cn:adj. 掠夺的，掠夺成性的；食肉的；捕食生物的
+Synonyms: predacious, looting, pillaging
+
+name:PREDILECTION
+en:Partiality or preference for; a favorable opinion arrived at beforehand - a predilection for theatricals. ; Antonyms: aversion, antipathy, repugnance
+cn:n. 偏爱，嗜好
+Synonyms: prepossession, proclivity, predisposition, penchant
+
+name:PRELUDE
+en:An introduction, forerunner, or preliminary step - a short prelude to the play.
+cn:n. 前奏；序幕；前奏曲;vt. 成为…的序幕；演奏…作为前奏曲;vi. 作为序曲；奏序曲
+Synonyms: preface, prologue, preamble.
+
+name:PREROGATIVE
+en:A privilege or power attaching to a position - It is a woman's prerogative to refuse to tell her age.
+cn:n. 特权;adj. 有特权的
+Synonym: license
+
+name:PRESTIGE
+en:Esteem or influence accorded for recognized achievements or reputation - As Senator he enjoyed great prestige.
+cn:n. 威望，声望；声誉;n. (Prestige)人名；(英)普雷斯蒂奇
+Synonym: distinction
+
+name:PRECOCIOUS
+en:Remarkable for early mental development a precocious genius.
+cn:adj. 早熟的；过早发育的
+None
+
+name:PREDATORY
+en:(1) Inclined to plunder or rob; - predatory bands roaming the countryside. ; (2) Preying on, others - predatory animals prowling about.
+cn:adj. 掠夺的，掠夺成性的；食肉的；捕食生物的
+Synonyms: predacious, looting, pillaging
+
+name:PREDILECTION
+en:Partiality or pr eference for; a favorable opinion arrived at beforehand - a predilection for theatricals. ; Antonyms: aversion, antipathy, repugnance
+cn:n. 偏爱，嗜好
+Synonyms: prepossession, proclivity, predisposition, penchant
+
+name:PRELUDE
+en:An introduction, forerunner, or preliminary step - a short prelude to the play.
+cn:n. 前奏；序幕；前奏曲;vt. 成为…的序幕；演奏…作为前奏曲;vi. 作为序曲；奏序曲
+Synonyms: Preface, prologue. Preamble
+
+name:PREROGATIVE
+en:A privilege or power attaching to a position - It is a woman's prerogative to refuse to tell her age.
+cn:n. 特权;adj. 有特权的
+Synonym: license
+
+name:PRESTIGE
+en:Esteem or influence accorded for recognized achievements or reputation - As Senator he enjoyed great prestige.
+cn:n. 威望，声望；声誉;n. (Prestige)人名；(英)普雷斯蒂奇
+Synonym: distinction
+
+name:PRESUMPTION
+en:(1) Something taken for granted - acted on a reasonable presumption. ; (2) Going beyond proper bounds; impudent boldness - His question was downright presumption.
+cn:n. 放肆，傲慢；推测
+Synonyms: effrontery, forwardness, arrogance
+
+name:PREVARICATE
+en:To disguise or conceal the truth to lie - prevaricated in order to avoid detection. ; Antonyms: (noun) veracity, verity; (adj.) forthright
+cn:vi. 搪塞；支吾其辞，闪烁其辞
+Synonyms: quibble, equivocate; (adj.) mendacious
+
+name:PROCRASTINATE
+en:To postpone or put off to another time - missed his opportunity by procrastinating too long.
+cn:vt. 耽搁，延迟;vi. 耽搁，延迟
+Synonyms: defer, delay
+
+name:PROGNOSTICATE 
+en:(noun: PROGNOSIS): To forecast - The Weather Bureau prognosticates daily.
+cn:vt. 预言，预测
+Synonyms:presage, portend, augur, forebode
+
+name:PROLETARIAT
+en:The wage-earning class - a truckman, humble member of the proletariat.
+cn:n. 无产阶级，工人阶级；最下层阶级
+None
+
+name:PROMONTORY
+en:A cliff - an imposing promontory along the coast.
+cn:n. 岬，海角；隆起，隆突
+Synonyms:headland, precipice
+
+name:PROMULGATE
+en:To publish or proclaim; to spread abroad The President promulgated a decree.
+cn:vt. 公布；传播；发表
+Synonym:disseminate
+
+name:PROTUBERANT
+en:Bulging or swelling out - a protuberant jaw. ; Antonyms:receding, recessive
+cn:adj. 突起的；招人注意的；显著的
+None
+
+name:PROVISIONAL
+en:Temporary; for the time being - a provisional plan until a permanent decision is reached.
+cn:adj. 临时的，暂时的；暂定的;n. 临时邮票
+Synonym:tentative
+
+name:PROXIMITY
+en:Nearness-worked in close proximity to his home.
+cn:n. 亲近，接近；[数] 邻近
+Synonyms :propinquity, vicinity
+
+name:PSEUDONYM
+en:A false name assumed by a writer - concealed his identity by a pseudonym.
+cn:n. 笔名；假名
+Synonyms:alias, pen name, nom de plume
+
+name:PUNITIVE
+en:Inflicting, or concerned with, punishment - took punitive measures against deserters.
+cn:adj. 惩罚性的；刑罚的
+None
+
+-----------q-----------
+name:QUASH
+en:To crush; to render void - quashed a rebellion; quashed an indictment.
+cn:vt. 撤销；镇压；宣布无效；捣碎
+Synonyms:suppress, extinguish, quell; annul
+
+name:QUERULOUS
+en:Given to fault-finding and complaining - Her querulous nature estranged many people.
+cn:adj. 易怒的，暴躁的；爱发牢骚的，抱怨的；爱挑剔的
+Synonyms:fretful, whining, captious, carping, peevish, petulant
+
+name:QUIXOTIC
+en:Extravagantly romantic or idealistic; highly impractical - a quixotic scheme that can never materialize.
+cn:adj. 唐吉诃德式的；狂想家的；愚侠的
+Synonyms:utopian, visionary, fantastic
+
+-----------r-----------
+name:RACONTEUR
+en:A skilled storyteller - held spellbound by a superb raconteur. ; RADICAL (noun): One who advocates extreme basic changes - The reform movement was led by a radical. ; (adj.): Thorough, extreme - radical measures adopted to meet the emergency.
+cn:n. 健谈者；善谈者；擅长讲故事的人
+None
+
+name:RAMIFICATION
+en:A branching; sub-division - studied the subject in all its ramifications.
+cn:n. 衍生物；分枝，分叉；支流
+None
+
+name:RAZE
+en:To tear down completely- razed the old building.
+cn:vt. 夷为平地；破坏；消除；拆毁;n. (Raze)人名；(法)拉兹
+Synonyms:level
+
+name:RECAPITULATE
+en:To restate in a brief, concise form; to sum up - recapitulated the main ideas.
+cn:vi. 概括；重述要点；摘要;vt. 概括；重述要点；摘要
+None
+
+name:RECIPROCAL
+en:Mutual; done in return for something received - held each other in reciprocal esteem.
+cn:adj. 互惠的；相互的；倒数的，彼此相反的;n. [数] 倒数；互相起作用的事物
+None
+
+name:RECUMBENT
+en:Lying down; leaning back or down - resting in a recumbent position.
+cn:adj. 斜倚的；休息的
+None
+
+name:REDOLENT
+en:(1) Fragrant - a room redolent of roses. ; (2) Reminiscent of - redolent of olden times.
+cn:adj. 芬芳的；有…香味的；令人想起…的
+Synonym: aromatic
+
+name:REDOUBTABLE
+en:Commanding fear or respect - cringing before a redoubtable enemy.
+cn:adj. 可怕的；令人敬畏的
+Synonym:formidable
+
+name:REFUTE
+en:To prove incorrect or false-refuted his opponent's argument. ; Antonyms: substantiate, confirm, corroborate
+cn:vt. 反驳，驳斥；驳倒
+Synonyms:rebut, confute
+
+name:REITERATE
+en:Repeat (several times) - reiterated his story once more.
+cn:vt. 重申；反复地做
+None
+
+name:REMUNERATIVE
+en:Profitable - a remunerative job.
+cn:adj. 有利可图的；有报酬的；合算的
+Synonyms: lucrative, gainful
+
+name:RENEGADE
+en:One who forsakes political or party principles or his religious faith - a renegade from his former allegiance.
+cn:n. 叛徒；变节者；脱党者;vi. 背叛；脱离;adj. 叛徒的；背弃的；脱离的
+Synonyms: turncoat, apostate, recreant, traitor
+
+name:REPRISAL
+en:Injury inflicted in turn for one received - took action in reprisal against his neighbor.
+cn:n. 报复（行为）；报复性劫掠
+Synonym: retaliation
+
+name:RESENTMENT
+en:Feeling of displeasure or indignation resulting from mistreatment or abuse - showed resentment at what he considered an unwarranted insult.
+cn:n. 愤恨，怨恨
+Synonyms: umbrage, dudgeon, animosity
+
+name:RESILIENT
+en:Elastic; light-hearted; possessing power of recovery - a resilient Spirit, refusing to admit defeat.
+cn:adj. 弹回的，有弹力的
+Synonyms: flexible, pliable, supple, limber
+
+name:RESPITE
+en:(1) Temporary deferment or cessation of work or pain - a brief respite from labor. ; (2) A temporary delay in the execution of -a sentence - granted the doom man a temporary respite.
+cn:n. 缓解；暂缓；暂时的休息；缓期执行;vt. 使缓解；使暂缓；使延期；缓期执行
+Synonym: reprieve
+
+name:RETRIBUTION
+en:The reward or punishment exacted for an injury, wickedness, or other action - suffered just retribution for his folly.
+cn:n. 报应；惩罚；报答；报偿
+Synonyms: requital, nemesis
+
+name:RETRIEVE
+en:(1) To make good -retrieved a mistake. ; (2) To recover -retrieved the suitcase left at the station. ; (3) To restore - retrieved his lost fortunes.
+cn:vt. [计] 检索；恢复；重新得到;vi. 找回猎物;n. [计] 检索；恢复，取回
+None
+
+name:REVERBERATE
+en:To echo - a shot reverberating through the valley.
+cn:vt. 使回响；使反射；使弹回;vi. 回响；反响；弹回；不断发生后效;adj. 回响的；反射的
+Synonym: resound
+
+name:RUDIMENTARY
+en:In an early stage of development - possessing only a rudimentary, knowledge of physics.
+cn:adj. 基本的；初步的；退化的；残遗的；未发展的
+Synonym: incipient
+
+name:RUE 
+en:(adj.: RUEFUL): To be sorry for-He will rue the day he left home.
+cn:vi. 后悔；悲伤;vt. 后悔；懊悔;n. 芸香；后悔;n. (Rue)人名；(英)鲁
+Synonyms: regret, repent
+
+-----------s-----------
+name:SACROSANCT
+en:Very holy - a shrine. regarded as sacrosanct.
+cn:adj. 神圣不可侵犯的；极神圣的
+Synonyms: consecrated, inviolable, hallowed
+
+name:SAGACIOUS 
+en:(noun: SAGACITY): Wise; shrewd - proved to be sagacious in his judgment.
+cn:adj. 睿智的，聪慧的；有远见的，聪慧的
+Synonyms: perspicacious, astute, sapient, discerning, sage
+
+name:SALLOW
+en:Sick - a sallow complexion. ; Antonyms: rubicund, ruddy, florid
+cn:adj. 气色不好的；灰黄色的;n. 黄华柳；黄华柳细枝;vt. 成土色;vi. 使……变成土色
+Synonym: pallid
+
+name:SALLY
+en:(verb): To rush forth suddenly - sallied out to meet the enemy. ; (noun): A Witty remark - amused the audience with his sallies against his opponent.
+cn:n. 突围；[军] 出击；（感情等）迸发；俏皮话；远足;vt. 突围；出发；动身，外出;n. (Sally)人名；(捷)萨莉；(德、芬、意、英)萨莉(教名Sara、Sarah的昵称)
+Synonyms: quip, banter
+
+name:SANCTIMONIOUS
+en:Pretending to be religious - showed his hypocrisy in a sanctimonious display of piety.
+cn:adj. 假装虔诚的；假装圣洁的；假装诚实的
+None
+
+name:SANGUINARY
+en:Bloody - a sanguinary battle.
+cn:adj. 血腥的；流血的；残暴的
+Synonym: gory
+
+name:SANGUINE
+en:Of a hopeful disposition; blood-red in color - a perennial optimist, sanguine in temperament.
+cn:adj. 乐观的；满怀希望的；面色红润的;vt. 血染；以血沾污;n. 血红色
+Synonyms: buoyant, ardent
+
+name:SARTORIAL
+en:Pertaining to a tailor or clothes - a picture of sartorial perfection.
+cn:adj. 裁缝的；缝纫的；裁缝匠的
+None
+
+name:SATELLITE
+en:(1) An attentive or flattering follower - a prince surrounded by many satellites. ; (2) A country influenced or controlled by another - Freedom is conspicuously absent ,in the Soviet satellites. ; (3) A body (natural or artificial) which revolves around a larger body, generally a planet - The moon is the only natural satellite of the earth, but in recent years it has been joined by many artificial satellites.
+cn:n. 卫星；人造卫星；随从；卫星国家
+Synonyms: lackey, toady, disciple, adherent; adj., fawning, obsequious, partisan
+
+name:SCINTILLA
+en:A trace; a particle - not a scintilla of convincing evidence.
+cn:n. 火花；闪烁；微量
+Synonyms: iota; vestige
+
+name:SCOURGE 
+en:(verb): To punish severely; to afflict; to whip - a disease that scourged the country. ; (noun). A whip or other means of punishment; a cause of affliction - The Black Plague was a dreadful scourge of the Middle Ages.
+cn:vt. 鞭打；蹂躏；严斥；痛斥;n. 鞭；灾祸；鞭子；苦难的根源
+Synonym: tribulation
+
+name:SCRUTINIZE
+en:To examine carefully -scrutinized the contents of the letter.
+cn:vi. 细阅；作详细检查;vt. 详细检查；细看;n. 仔细或彻底检查
+None
+
+name:SHIBBOLETH
+en:A party slogan - a shibboleth designed to attract votes.
+cn:n. 口令；（基督教《圣经》）考验用的词；特殊的习惯
+None
+
+name:SIMPER 
+en:(verb): To smile in a silly or affected way simpered as he greeted each guest. ; (noun): An affected or silly smile - stood nervously, a simper on his face.
+cn:n. 假笑；傻笑;vi. 假笑;vt. 假笑着说
+Synonym: (verb and noun) smirk
+
+name:SINECURE
+en:Employment entailing little or no responsibility or labor - His job was a sinecure.
+cn:n. 闲职；挂名职务
+None
+
+name:SINISTER
+en:Threatening or showing evil; dishonest - the sinisterlook of a gangster.
+cn:adj. 阴险的；凶兆的；灾难性的；左边的
+None
+
+name:SLEAZY
+en:Flimsy and cheap - sleazy cloth which is used only in cheap garments.
+cn:adj. 质地薄的；肮脏的；低级庸俗的；破烂的
+Synonym: unsubstantial
+
+name:SLOVENLY
+en:Untidy-severely criticized the student's slovenly appearance.
+cn:adj. 懒散的；不整洁的；马虎的;adv. 邋遢地；马虎地；不整洁地
+Synonyms: slipshod, slatternly, frowzy
+
+name:SOPORIFIC
+en:Tending to induce sleep - a poorly written novel, soporific in effect.
+cn:n. 催眠剂；安眠药;adj. 催眠的；想睡的
+None
+
+name:SORDID
+en:Mean and base; filthy - Sordid motives breed selfish actions.
+cn:adj. 肮脏的；卑鄙的；利欲熏心的；色彩暗淡的
+Synonyms: degraded, vile, ignoble
+
+name:SOVEREIGN
+en:Supreme m power and authority; independent of the control of any other government - possessing sovereign powers; a sovereign state.
+cn:adj. 至高无上的；有主权的；拥有最高统治权的；不折不扣的；极好的;n. 君主；独立国；最高统治者;n. (Sovereign)人名；(英)索夫林
+Synonyms: autonomous, imperial, majestic, paramount
+
+name:SPORADIC
+en:Occurring singly, at irregular intervals; scattered - sporadic cases of illness.
+cn:adj. 零星的；分散的；不定时发生的
+None
+
+name:SPURN
+en:To refuse or reject with contempt - an offer that was spurned instantly.
+cn:vt. 唾弃；冷落；一脚踢开;vi. 摒弃；藐视;n. 藐视，摒弃；踢开
+Synonyms: repel, snub
+
+name:STOIC
+en:Indifferent, calm in bearing pain or pleasure; practising remarkable self-control over emotions - maintained a stoic attitude despite all his trials.
+cn:n. 斯多葛学派哲学家；禁欲主义者;adj. 斯多葛派的；禁欲主义的
+Synonyms: stolid, impassive
+
+name:STRINGENT
+en:Strict; compelling, constraining stringent regulations; stringent requirements.
+cn:adj. 严厉的；迫切的；银根紧的
+Synonyms: exacting, rigid
+
+name:STUPENDOUS
+en:Amazing by, virtue of its immense size, force, or any quality in exceptional degree - The circus is a stupendous spectacle.
+cn:adj. 惊人的；巨大的
+Synonyms: astounding, prodigious, monstrous, marvelous, colossal, awful
+
+name:SUCCULENT
+en:juicy - a succulent steak. ; Antonyms; desiccated, vapid
+cn:adj. 多汁的；多水分的；多汁性的;n. 肉质植物；多汁植物
+None
+
+name:SULTRY
+en:Close, hot, and moist - sultry tropical weather.
+cn:adj. 闷热的；狂暴的；淫荡的
+None
+
+name:SUPINE
+en:(1) Lying flat on the back - resting in a supine position. ; (2) Inert, inactive, averse to taking action - a supine, ineffective administrator.
+cn:adj. 仰卧的；懒散的；掌心向上的；向后靠的
+Synonyms: listless, torpid
+
+-----------t-----------
+name:TANGIBLE
+en:Real; actual - tangible gains which may be seen. and counted.
+cn:adj. 有形的；切实的；可触摸的;n. 有形资产
+Synonyms: material, veritable, perceptible, substantial
+
+name:TANTAMOUNT
+en:Equivalent - an act that is tantamount to treason.
+cn:adj. 同等的；相当于…的
+None
+
+name:TAUNT 
+en:(verb). To reproach with contempt - taunted him with the charge of failure to act promptly. ; (noun): An insulting, jeering, or bitter remark - hurled taunts at his foes.
+cn:n. 嘲弄；讥讽;vt. 奚落；逗弄;adj. 很高的
+Synonyms: mock, twit, gibe, sneer, deride
+
+name:TEEMING
+en:In abundance, fertile, highly productive - the teeming tropics, rank with vegetation.
+cn:adj. 多产的，丰富的；热闹的;v. 充满（teem的现在分词）
+Synonyms: swarming, fruitful, fecund, abounding
+
+name:TEMERITY
+en:Unwise or reckless boldness - leaped into battle with thoughtless temerity. ; (adj.) temerarious, foolhardy, venturesome ; Antonyms: prudence, circumspection, wariness
+cn:n. 鲁莽，冒失；蛮勇
+Synonyms: audacity, presumptuousness, effrontery, rashness;
+
+name:TEMPORAL
+en:Worldly, as opposed to spiritual; existing for a time only - a man preoccupied with temporal matters.
+cn:adj. 暂时的；当时的；现世的;n. 世间万物；暂存的事物;n. (Temporal)人名；(法)唐波拉尔
+Synonyms: mundane, secular, civil
+
+name:TEMPORIZE
+en:To delay or refuse to commit oneself in order to gain time - temporized while his friends hurried to his aid.
+cn:vi. 拖延；妥协；顺应时势；迎合潮流
+Synonym: equivocate
+
+name:TENET
+en:A principle of belief held as true - a tenet of religion which be maintained loyally.
+cn:n. 原则；信条；教义;n. (Tenet)人名；(法)特内；(英)特尼特
+Synonyms: creed, doctrine, dogma
+
+name:TENUOUS
+en:Slender; not substantial; of slight importance - clung desperately to his tenuous hope.
+cn:adj. 纤细的；稀薄的；贫乏的
+None
+
+name:TRANQUIL
+en:Calm; peaceful - a tranquil summer night. ; Antonyms: perturbed, ruffled, turbulent
+cn:adj. 安静的，平静的；安宁的；稳定的
+Synonyms: placid, serene
+
+name:TRANSGRESS
+en:To break a law or command; to violate a moral principle; to overstep a moral bound or limit - transgressed the bounds of decency; transgressed the law.
+cn:vt. 违反；侵犯；犯罪;vi. 违反；违法；越界
+None
+
+name:TREMULOUS
+en:Trembling - tremulous with fright.
+cn:adj. 胆小的；战栗的；震颤的
+Synonym: quivering
+
+name:TRIVIAL
+en:Of little - importance - a trivial offense. ; Antonyms: gross, momentous
+cn:adj. 不重要的，琐碎的；琐细的
+Synonym: paltry
+
+name:TRUCULENT 
+en:(noun: TRUCULENCE): Cruel, fierce; harsh; threatening or intimidating savagely - a dispute marked by a truculent attitude on both sides.
+cn:adj. 好斗的；野蛮的；言词刻毒的
+None
+
+name:TURGID
+en:(1) Swollen, inflated - turgid rivers overflowing their banks. ; (2) Using big or high-sounding words - a turgid prose style.
+cn:adj. 肿胀的；浮夸的；浮肿的
+Synonyms: pompous, bombastic, prolix
+
+-----------u-----------
+name:UBIQUITOUS
+en:Existing everywhere - The common cold is a ubiquitous complaint.
+cn:adj. 普遍存在的；无所不在的
+Synonyms: omnipresent, universal
+
+name:UNTENABLE
+en:Incapable of being defended or held - withdrew the argument as untenable.
+cn:adj. （论据等）站不住脚的；不能维持的；不能租赁的；难以防守的
+None
+
+name:UTILITARIAN 
+en:(adj.): Materially or practically useful - beautiful, but not utilitarian.
+cn:adj. 功利的；功利主义的；实利的;n. 功利主义者
+None
+
+-----------v-----------
+name:VANQUISH
+en:To subdue or conquer -an army vanquished with heavy losses.
+cn:vt. 征服；击败；克服；抑制（感情等）
+None
+
+name:VAUNT 
+en:To boast - proudly vaunted his strength.
+cn:vi. 自夸；吹嘘;vt. 自夸；吹嘘;n. 自吹自擂
+Synonyms: brag (noun: braggadocio, braggart), proclaim
+
+name:VENEER
+en:A superficial appearance or show designed to impress one with superiority - pierced beneath his thin veneer of elegance.
+cn:n. 外表；虚饰；饰面；胶合板的一层；薄木片;vt. 胶合；虚饰；给…镶以饰片
+Synonym: gloss
+
+name:VENERABLE
+en:Deserving respect or reverence because of age - a venerable leader.
+cn:adj. 庄严的，值得尊敬的；珍贵的
+None
+
+name:VERNAL
+en:Pertaining to spring-an array of vernal flowers.
+cn:adj. 春天的；和煦的；青春的
+None
+
+name:VERSATILE
+en:Able to do many things skillfully - versatile in all the arts.
+cn:adj. 多才多艺的；通用的，万能的；多面手的
+None
+
+name:VICARIOUS 
+en:Taking the place of another; felt, received, or done in place of another - took vicarious pleasure in his brother's victory.
+cn:adj. 替代的；代理的；发同感的
+None
+
+name:VICISSITUDE:
+en:A change from one condition to another, often unexpected - suffered many vicissitudes of fortune.
+cn:n. 变迁；盛衰；变化无常；变迁兴衰
+None
+
+name:VIRAGO
+en:A scolding or ill-tempered woman - My neighbor's wife is a virago.
+cn:n. 泼妇；悍妇；有男子气概的女子
+Synonyms: shrew, termagant, vixen
+
+name:VITUPERATE
+en:(noun: VITUPERATION; adj.: VITUPERATIVE): To scold or blame loudly, find fault with in abusive language - an angry man, vituperating the world.
+cn:vt. 谩骂；责骂
+Synonyms: berate, revile
+
+-----------w-----------
+name:WAIVE
+en:(To give up (privileges, etc.); to do without - waived his rights to the property.
+cn:vt. 放弃；搁置
+Synonyms: relinquish, forgo, forsake
+
+name:WHIM 
+en:(adj.: WHIMSICAL): A sudden notion or passing fancy -frequently acted on the whim of the moment.
+cn:n. 奇想；一时的兴致；怪念头；幻想
+Synonyms: caprice, vagary, crotchet
+
+name:WRITHE
+en:To twist about (usually with pain) - writhed in agony on the floor.
+cn:vi. 翻滚；蠕动;vt. 扭曲；扭动;n. 翻滚；扭动；苦恼
+Synonyms: contort, squirm
+
+-----------x-----------
+name:Xenophobia
+en:
+cn:n. 仇外；对外国人的畏惧和憎恨
+None
+
+-----------y-----------
+name:Yoke
+en:
+cn:n. 轭；束缚；牛轭;vt. 结合；给…上轭;vi. 结合；匹配;n. (Yoke)人名；(日)与家(姓)
+None
+
+-----------z-----------
+name:ZEALOUS 
+en:(noun: ZEALOT: fanatic): Full of enthusiasm or eagerness -a zealous student, first in his class.
+cn:adj. 热心的，热情的，积极的;n. (Zealous)人名；(英)泽勒斯
+None
+
+name:ZENITH
+en:The highest point - the zenith of his career.
+cn:n. 顶峰；顶点；最高点;n. (Zenith)人名；(英)齐尼思
+Synonyms: acme, apex, culmination, summit
+
