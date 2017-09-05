@@ -1,4 +1,4 @@
 # toeflcrawler
 A crawler for toefl words
 
-Just use python crawler.py to download toefl words and Chinese interpretions associated with it.
+Just use python crawler.py to download toefl words and Chinese interpretations associated with it.
